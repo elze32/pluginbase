@@ -1,0 +1,30 @@
+{
+  "name": "pluginbase",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup": "pnpm install && pnpm setup:env",
+    "setup:env": "node setup-env.js",
+    "dev": "pnpm --parallel --filter api --filter web dev",
+    "dev:insights": "pnpm --filter web dev" ,
+    "dev:web": "pnpm --filter web dev",
+    "dev:api": "pnpm --filter api dev",
+    "build": "pnpm --filter api build && pnpm --filter web build",
+    "build:web": "pnpm --filter web build",
+    "lint": "pnpm --filter web lint",
+    "type-check": "pnpm --filter api type-check && pnpm --filter web type-check"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@prisma/client",
+      "@prisma/engines",
+      "esbuild",
+      "prisma",
+      "sharp",
+      "unrs-resolver"
+    ]
+  }
+}

@@ -1,0 +1,2160 @@
+{
+  "plugins": [
+    {
+      "matchPatterns": ["fabfilter pro-q 3", "pro-q 3", "pro-q3"],
+      "normalizedName": "FabFilter Pro-Q 3",
+      "brand": "FabFilter",
+      "category": "EQ",
+      "subcategory": "Parametric EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-c 2", "pro-c 2", "pro-c2"],
+      "normalizedName": "FabFilter Pro-C 2",
+      "brand": "FabFilter",
+      "category": "Compressor",
+      "subcategory": "Dynamic Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-l 2", "pro-l 2", "pro-l2"],
+      "normalizedName": "FabFilter Pro-L 2",
+      "brand": "FabFilter",
+      "category": "Limiter",
+      "subcategory": "True Peak Limiter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-mb", "pro-mb"],
+      "normalizedName": "FabFilter Pro-MB",
+      "brand": "FabFilter",
+      "category": "Compressor",
+      "subcategory": "Multiband Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-r", "pro-r 2", "pro-r"],
+      "normalizedName": "FabFilter Pro-R",
+      "brand": "FabFilter",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-ds", "pro-ds"],
+      "normalizedName": "FabFilter Pro-DS",
+      "brand": "FabFilter",
+      "category": "Vocal Processing",
+      "subcategory": "De-esser",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter pro-g", "pro-g"],
+      "normalizedName": "FabFilter Pro-G",
+      "brand": "FabFilter",
+      "category": "Gate",
+      "subcategory": "Gate/Expander",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter simplon", "simplon"],
+      "normalizedName": "FabFilter Simplon",
+      "brand": "FabFilter",
+      "category": "EQ",
+      "subcategory": "Filter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter saturn 2", "saturn 2", "saturn2"],
+      "normalizedName": "FabFilter Saturn 2",
+      "brand": "FabFilter",
+      "category": "Saturation",
+      "subcategory": "Multiband Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter twin 2", "twin 2", "twin2"],
+      "normalizedName": "FabFilter Twin 2",
+      "brand": "FabFilter",
+      "category": "Synthesizer",
+      "subcategory": "Subtractive Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["fabfilter volcano 3", "volcano 3", "volcano3"],
+      "normalizedName": "FabFilter Volcano 3",
+      "brand": "FabFilter",
+      "category": "Multi-FX",
+      "subcategory": "Filter Bank",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fabfilter timeless 3", "timeless 3", "timeless3"],
+      "normalizedName": "FabFilter Timeless 3",
+      "brand": "FabFilter",
+      "category": "Delay",
+      "subcategory": "Tape Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla room"],
+      "normalizedName": "Valhalla Room",
+      "brand": "Valhalla DSP",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla vintage verb", "valhallavintagevrb"],
+      "normalizedName": "Valhalla Vintage Verb",
+      "brand": "Valhalla DSP",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla delay"],
+      "normalizedName": "Valhalla Delay",
+      "brand": "Valhalla DSP",
+      "category": "Delay",
+      "subcategory": "Stereo Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla shimmer"],
+      "normalizedName": "Valhalla Shimmer",
+      "brand": "Valhalla DSP",
+      "category": "Reverb",
+      "subcategory": "Shimmer Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla space modulator", "valhallaspacemodul"],
+      "normalizedName": "Valhalla Space Modulator",
+      "brand": "Valhalla DSP",
+      "category": "Chorus",
+      "subcategory": "Modulation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla supermassive", "valhallasuper"],
+      "normalizedName": "Valhalla Supermassive",
+      "brand": "Valhalla DSP",
+      "category": "Reverb",
+      "subcategory": "Space Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla freq echo", "valhallafreqecho"],
+      "normalizedName": "Valhalla Freq Echo",
+      "brand": "Valhalla DSP",
+      "category": "Delay",
+      "subcategory": "Frequency Shifter Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["valhalla plate"],
+      "normalizedName": "Valhalla Plate",
+      "brand": "Valhalla DSP",
+      "category": "Reverb",
+      "subcategory": "Plate Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ozone 11"],
+      "normalizedName": "iZotope Ozone 11",
+      "brand": "iZotope",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ozone 10"],
+      "normalizedName": "iZotope Ozone 10",
+      "brand": "iZotope",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["neutron 4"],
+      "normalizedName": "iZotope Neutron 4",
+      "brand": "iZotope",
+      "category": "EQ",
+      "subcategory": "Mixing Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["neutron 3"],
+      "normalizedName": "iZotope Neutron 3",
+      "brand": "iZotope",
+      "category": "EQ",
+      "subcategory": "Mixing Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["izotope rx 10", "rx 10"],
+      "normalizedName": "iZotope RX 10",
+      "brand": "iZotope",
+      "category": "Noise Reduction",
+      "subcategory": "Audio Repair",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["izotope rx 9", "rx 9"],
+      "normalizedName": "iZotope RX 9",
+      "brand": "iZotope",
+      "category": "Noise Reduction",
+      "subcategory": "Audio Repair",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["nectar 3"],
+      "normalizedName": "iZotope Nectar 3",
+      "brand": "iZotope",
+      "category": "Vocal Processing",
+      "subcategory": "Vocal Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["stutter edit 2", "stutteredit"],
+      "normalizedName": "iZotope Stutter Edit 2",
+      "brand": "iZotope",
+      "category": "Creative FX",
+      "subcategory": "Stutter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["izotope iris 2", "iris 2"],
+      "normalizedName": "iZotope Iris 2",
+      "brand": "iZotope",
+      "category": "Synthesizer",
+      "subcategory": "Spectral Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["breaktweaker"],
+      "normalizedName": "iZotope Breaktweaker",
+      "brand": "iZotope",
+      "category": "Drum Machine",
+      "subcategory": "Groove Generator",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["izotope trash 2", "trash 2"],
+      "normalizedName": "iZotope Trash 2",
+      "brand": "iZotope",
+      "category": "Distortion",
+      "subcategory": "Distortion Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["insight 2", "izotope insight"],
+      "normalizedName": "iZotope Insight 2",
+      "brand": "iZotope",
+      "category": "Analyzer",
+      "subcategory": "Metering Suite",
+      "type": "analyzer"
+    },
+    {
+      "matchPatterns": ["massive x"],
+      "normalizedName": "Native Instruments Massive X",
+      "brand": "Native Instruments",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["massive"],
+      "normalizedName": "Native Instruments Massive",
+      "brand": "Native Instruments",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["kontakt 7"],
+      "normalizedName": "Kontakt 7",
+      "brand": "Native Instruments",
+      "category": "Sampler",
+      "subcategory": "Sample Player",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["kontakt 6"],
+      "normalizedName": "Kontakt 6",
+      "brand": "Native Instruments",
+      "category": "Sampler",
+      "subcategory": "Sample Player",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["battery 4"],
+      "normalizedName": "Native Instruments Battery 4",
+      "brand": "Native Instruments",
+      "category": "Drum Machine",
+      "subcategory": "Sample Drum Machine",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["native instruments fm8", "fm8"],
+      "normalizedName": "Native Instruments FM8",
+      "brand": "Native Instruments",
+      "category": "Synthesizer",
+      "subcategory": "FM Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["absynth 5"],
+      "normalizedName": "Native Instruments Absynth 5",
+      "brand": "Native Instruments",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["reaktor 6"],
+      "normalizedName": "Native Instruments Reaktor 6",
+      "brand": "Native Instruments",
+      "category": "Synthesizer",
+      "subcategory": "Modular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["guitar rig 6", "guitar rig 7"],
+      "normalizedName": "Native Instruments Guitar Rig 6",
+      "brand": "Native Instruments",
+      "category": "Multi-FX",
+      "subcategory": "Guitar Amp Sim",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["supercharger"],
+      "normalizedName": "Native Instruments Supercharger",
+      "brand": "Native Instruments",
+      "category": "Compressor",
+      "subcategory": "Tube Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["solid bus comp"],
+      "normalizedName": "Native Instruments Solid Bus Comp",
+      "brand": "Native Instruments",
+      "category": "Compressor",
+      "subcategory": "Bus Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["transient master"],
+      "normalizedName": "Native Instruments Transient Master",
+      "brand": "Native Instruments",
+      "category": "Transient Shaper",
+      "subcategory": "Transient Designer",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["vc 76"],
+      "normalizedName": "Native Instruments VC 76",
+      "brand": "Native Instruments",
+      "category": "Compressor",
+      "subcategory": "FET Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ssl g-master", "ssl g master", "ssl g-master buss compressor"],
+      "normalizedName": "Waves SSL G-Master Buss Compressor",
+      "brand": "Waves",
+      "category": "Compressor",
+      "subcategory": "Bus Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ssl e-channel", "ssl e channel"],
+      "normalizedName": "Waves SSL E-Channel",
+      "brand": "Waves",
+      "category": "EQ",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["cla-76"],
+      "normalizedName": "Waves CLA-76",
+      "brand": "Waves",
+      "category": "Compressor",
+      "subcategory": "FET Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["cla-2a"],
+      "normalizedName": "Waves CLA-2A",
+      "brand": "Waves",
+      "category": "Compressor",
+      "subcategory": "Optical Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["h-delay"],
+      "normalizedName": "Waves H-Delay",
+      "brand": "Waves",
+      "category": "Delay",
+      "subcategory": "Hybrid Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["h-reverb"],
+      "normalizedName": "Waves H-Reverb",
+      "brand": "Waves",
+      "category": "Reverb",
+      "subcategory": "Hybrid Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["renaissance compressor", "rcomp"],
+      "normalizedName": "Waves Renaissance Compressor",
+      "brand": "Waves",
+      "category": "Compressor",
+      "subcategory": "Dynamic Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["renaissance eq", "req"],
+      "normalizedName": "Waves Renaissance EQ",
+      "brand": "Waves",
+      "category": "EQ",
+      "subcategory": "Parametric EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves vocal rider"],
+      "normalizedName": "Waves Vocal Rider",
+      "brand": "Waves",
+      "category": "Vocal Processing",
+      "subcategory": "Vocal Leveler",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves l2"],
+      "normalizedName": "Waves L2",
+      "brand": "Waves",
+      "category": "Limiter",
+      "subcategory": "Peak Limiter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves l3"],
+      "normalizedName": "Waves L3",
+      "brand": "Waves",
+      "category": "Limiter",
+      "subcategory": "Multiband Limiter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["api 2500"],
+      "normalizedName": "Waves API 2500",
+      "brand": "Waves",
+      "category": "Compressor",
+      "subcategory": "Bus Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["api 560"],
+      "normalizedName": "Waves API 560",
+      "brand": "Waves",
+      "category": "EQ",
+      "subcategory": "Graphic EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves nls"],
+      "normalizedName": "Waves NLS",
+      "brand": "Waves",
+      "category": "Saturation",
+      "subcategory": "Analog Coloring",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["abbey road reverb", "abbey road plates"],
+      "normalizedName": "Waves Abbey Road Reverb Plates",
+      "brand": "Waves",
+      "category": "Reverb",
+      "subcategory": "Plate Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["kramer master tape"],
+      "normalizedName": "Waves Kramer Master Tape",
+      "brand": "Waves",
+      "category": "Saturation",
+      "subcategory": "Tape Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves j37"],
+      "normalizedName": "Waves J37 Tape",
+      "brand": "Waves",
+      "category": "Saturation",
+      "subcategory": "Tape Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["omnisphere 2", "omnisphere"],
+      "normalizedName": "Spectrasonics Omnisphere 2",
+      "brand": "Spectrasonics",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["trilian"],
+      "normalizedName": "Spectrasonics Trilian",
+      "brand": "Spectrasonics",
+      "category": "Synthesizer",
+      "subcategory": "Bass Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["keyscape"],
+      "normalizedName": "Spectrasonics Keyscape",
+      "brand": "Spectrasonics",
+      "category": "Sampler",
+      "subcategory": "Keyboard Collection",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["xfer serum", "serum"],
+      "normalizedName": "Serum",
+      "brand": "Xfer Records",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["lfo tool"],
+      "normalizedName": "LFO Tool",
+      "brand": "Xfer Records",
+      "category": "Utility",
+      "subcategory": "LFO Modulator",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["xfer nerve", "nerve"],
+      "normalizedName": "Xfer Nerve",
+      "brand": "Xfer Records",
+      "category": "Drum Machine",
+      "subcategory": "Sample Drum Machine",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["xfer ott", "ott"],
+      "normalizedName": "OTT",
+      "brand": "Xfer Records",
+      "category": "Compressor",
+      "subcategory": "Multiband Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["echoboy"],
+      "normalizedName": "Soundtoys EchoBoy",
+      "brand": "Soundtoys",
+      "category": "Delay",
+      "subcategory": "Tape Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["decapitator"],
+      "normalizedName": "Soundtoys Decapitator",
+      "brand": "Soundtoys",
+      "category": "Saturation",
+      "subcategory": "Analog Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["little alterboy"],
+      "normalizedName": "Soundtoys Little AlterBoy",
+      "brand": "Soundtoys",
+      "category": "Vocal Processing",
+      "subcategory": "Pitch Shifter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["primaltap"],
+      "normalizedName": "Soundtoys PrimalTap",
+      "brand": "Soundtoys",
+      "category": "Delay",
+      "subcategory": "Digital Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["soundtoys radiator", "radiator"],
+      "normalizedName": "Soundtoys Radiator",
+      "brand": "Soundtoys",
+      "category": "Saturation",
+      "subcategory": "Tube Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["devil-loc"],
+      "normalizedName": "Soundtoys Devil-Loc",
+      "brand": "Soundtoys",
+      "category": "Compressor",
+      "subcategory": "Distortion Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["microshift"],
+      "normalizedName": "Soundtoys MicroShift",
+      "brand": "Soundtoys",
+      "category": "Stereo Width",
+      "subcategory": "Chorus",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["crystallizer"],
+      "normalizedName": "Soundtoys Crystallizer",
+      "brand": "Soundtoys",
+      "category": "Creative FX",
+      "subcategory": "Granular Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["filterfreak"],
+      "normalizedName": "Soundtoys FilterFreak",
+      "brand": "Soundtoys",
+      "category": "Creative FX",
+      "subcategory": "Filter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tremolator"],
+      "normalizedName": "Soundtoys Tremolator",
+      "brand": "Soundtoys",
+      "category": "Creative FX",
+      "subcategory": "Tremolo",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["uad la-2a", "la-2a"],
+      "normalizedName": "UAD LA-2A",
+      "brand": "Universal Audio",
+      "category": "Compressor",
+      "subcategory": "Optical Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["uad 1176", "1176"],
+      "normalizedName": "UAD 1176",
+      "brand": "Universal Audio",
+      "category": "Compressor",
+      "subcategory": "FET Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["neve 1073"],
+      "normalizedName": "UAD Neve 1073",
+      "brand": "Universal Audio",
+      "category": "EQ",
+      "subcategory": "Classic EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ssl 4000 e", "ssl e channel strip"],
+      "normalizedName": "UAD SSL 4000 E",
+      "brand": "Universal Audio",
+      "category": "EQ",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fairchild 670"],
+      "normalizedName": "UAD Fairchild 670",
+      "brand": "Universal Audio",
+      "category": "Compressor",
+      "subcategory": "Variable Mu",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["pultec eqp-1a", "pultec"],
+      "normalizedName": "UAD Pultec EQP-1A",
+      "brand": "Universal Audio",
+      "category": "EQ",
+      "subcategory": "Passive EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["ocean way studios"],
+      "normalizedName": "UAD Ocean Way Studios",
+      "brand": "Universal Audio",
+      "category": "Reverb",
+      "subcategory": "Room Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["capitol chambers"],
+      "normalizedName": "UAD Capitol Chambers",
+      "brand": "Universal Audio",
+      "category": "Reverb",
+      "subcategory": "Chamber Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["arturia pigments"],
+      "normalizedName": "Arturia Pigments",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["mini v", "minimoog v"],
+      "normalizedName": "Arturia Mini V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["jun-6 v", "jun6 v"],
+      "normalizedName": "Arturia Jun-6 V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["prophet-5 v", "prophet5 v"],
+      "normalizedName": "Arturia Prophet-5 V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["cs-80 v", "cs80 v"],
+      "normalizedName": "Arturia CS-80 V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["arp2600 v", "arp 2600 v"],
+      "normalizedName": "Arturia ARP2600 V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["buchla easel v"],
+      "normalizedName": "Arturia Buchla Easel V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["synthi v"],
+      "normalizedName": "Arturia Synthi V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["mellotron v"],
+      "normalizedName": "Arturia Mellotron V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Sample Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["jup-8 v", "jup8 v"],
+      "normalizedName": "Arturia Jup-8 V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["sem v"],
+      "normalizedName": "Arturia SEM V",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["arturia bus force"],
+      "normalizedName": "Arturia Bus FORCE",
+      "brand": "Arturia",
+      "category": "Compressor",
+      "subcategory": "Bus Processor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["arturia comp tube-sta"],
+      "normalizedName": "Arturia Comp TUBE-STA",
+      "brand": "Arturia",
+      "category": "Compressor",
+      "subcategory": "Tube Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["arturia eq sitral"],
+      "normalizedName": "Arturia EQ SITRAL-295",
+      "brand": "Arturia",
+      "category": "EQ",
+      "subcategory": "Passive EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["arturia pigments 4", "pigments 4", "pigments"],
+      "normalizedName": "Arturia Pigments 4",
+      "brand": "Arturia",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["u-he diva", "diva"],
+      "normalizedName": "u-he Diva",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["zebra 2", "zebra2"],
+      "normalizedName": "u-he Zebra 2",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["hive 2", "hive2"],
+      "normalizedName": "u-he Hive 2",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["repro-1"],
+      "normalizedName": "u-he Repro-1",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["repro-5"],
+      "normalizedName": "u-he Repro-5",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["bazille"],
+      "normalizedName": "u-he Bazille",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Modular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["u-he ace"],
+      "normalizedName": "u-he ACE",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["presswerk"],
+      "normalizedName": "u-he Presswerk",
+      "brand": "u-he",
+      "category": "Compressor",
+      "subcategory": "Multiband Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["u-he satin", "satin"],
+      "normalizedName": "u-he Satin",
+      "brand": "u-he",
+      "category": "Saturation",
+      "subcategory": "Tape Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["colour copy"],
+      "normalizedName": "u-he Colour Copy",
+      "brand": "u-he",
+      "category": "Delay",
+      "subcategory": "Analog Delay",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["uhbik"],
+      "normalizedName": "u-he Uhbik",
+      "brand": "u-he",
+      "category": "Multi-FX",
+      "subcategory": "FX Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["triple cheese"],
+      "normalizedName": "u-he Triple Cheese",
+      "brand": "u-he",
+      "category": "Synthesizer",
+      "subcategory": "Comb Filter Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["twangstrom"],
+      "normalizedName": "u-he Twangstrom",
+      "brand": "u-he",
+      "category": "Reverb",
+      "subcategory": "Spring Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["melodyne 5", "melodyne5"],
+      "normalizedName": "Melodyne 5",
+      "brand": "Celemony",
+      "category": "Pitch Correction",
+      "subcategory": "Polyphonic Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["melodyne 4"],
+      "normalizedName": "Melodyne 4",
+      "brand": "Celemony",
+      "category": "Pitch Correction",
+      "subcategory": "Polyphonic Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["auto-tune pro"],
+      "normalizedName": "Antares Auto-Tune Pro",
+      "brand": "Antares",
+      "category": "Pitch Correction",
+      "subcategory": "Real-time Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["auto-tune artist"],
+      "normalizedName": "Antares Auto-Tune Artist",
+      "brand": "Antares",
+      "category": "Pitch Correction",
+      "subcategory": "Real-time Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["auto-tune efx"],
+      "normalizedName": "Antares Auto-Tune EFX+",
+      "brand": "Antares",
+      "category": "Vocal Processing",
+      "subcategory": "Creative Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["antares avox"],
+      "normalizedName": "Antares AVOX",
+      "brand": "Antares",
+      "category": "Vocal Processing",
+      "subcategory": "Vocal Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["addictive drums 2", "addictive drums"],
+      "normalizedName": "XLN Audio Addictive Drums 2",
+      "brand": "XLN Audio",
+      "category": "Drum Machine",
+      "subcategory": "Sample Drum Machine",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["addictive keys"],
+      "normalizedName": "XLN Audio Addictive Keys",
+      "brand": "XLN Audio",
+      "category": "Sampler",
+      "subcategory": "Keyboard Collection",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["rc-20 retro color", "rc-20"],
+      "normalizedName": "XLN Audio RC-20 Retro Color",
+      "brand": "XLN Audio",
+      "category": "Creative FX",
+      "subcategory": "Lo-Fi",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["rc-48"],
+      "normalizedName": "XLN Audio RC-48",
+      "brand": "XLN Audio",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["xln ds-10"],
+      "normalizedName": "XLN Audio DS-10",
+      "brand": "XLN Audio",
+      "category": "Vocal Processing",
+      "subcategory": "De-esser",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["sugar bytes effectrix", "effectrix"],
+      "normalizedName": "Sugar Bytes Effectrix",
+      "brand": "Sugar Bytes",
+      "category": "Multi-FX",
+      "subcategory": "Sequenced FX",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["turnado"],
+      "normalizedName": "Sugar Bytes Turnado",
+      "brand": "Sugar Bytes",
+      "category": "Multi-FX",
+      "subcategory": "Realtime FX",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["aparillo"],
+      "normalizedName": "Sugar Bytes Aparillo",
+      "brand": "Sugar Bytes",
+      "category": "Synthesizer",
+      "subcategory": "FM Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["looperator"],
+      "normalizedName": "Sugar Bytes Looperator",
+      "brand": "Sugar Bytes",
+      "category": "Creative FX",
+      "subcategory": "Loop Slicer",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["wow2"],
+      "normalizedName": "Sugar Bytes WOW2",
+      "brand": "Sugar Bytes",
+      "category": "Creative FX",
+      "subcategory": "Filter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["sugar bytes guitarist", "guitarist"],
+      "normalizedName": "Sugar Bytes Guitarist",
+      "brand": "Sugar Bytes",
+      "category": "Synthesizer",
+      "subcategory": "Guitar Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["output exhaust"],
+      "normalizedName": "Output Exhaust",
+      "brand": "Output",
+      "category": "Distortion",
+      "subcategory": "Analog Distortion",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["output portal"],
+      "normalizedName": "Output Portal",
+      "brand": "Output",
+      "category": "Creative FX",
+      "subcategory": "Granular",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["output movement"],
+      "normalizedName": "Output Movement",
+      "brand": "Output",
+      "category": "Multi-FX",
+      "subcategory": "Rhythmic",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["output substance"],
+      "normalizedName": "Output Substance",
+      "brand": "Output",
+      "category": "Synthesizer",
+      "subcategory": "Bass Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["bx_digital v3", "bx_digital"],
+      "normalizedName": "Brainworx bx_digital V3",
+      "brand": "Plugin Alliance",
+      "category": "EQ",
+      "subcategory": "Mid/Side EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bx_console"],
+      "normalizedName": "Brainworx bx_console",
+      "brand": "Plugin Alliance",
+      "category": "EQ",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bx_saturator"],
+      "normalizedName": "Brainworx bx_saturator",
+      "brand": "Plugin Alliance",
+      "category": "Saturation",
+      "subcategory": "Analog Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bx_subsynth"],
+      "normalizedName": "Brainworx bx_subsynth",
+      "brand": "Plugin Alliance",
+      "category": "Synthesizer",
+      "subcategory": "Sub Generator",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bx_masterdesk"],
+      "normalizedName": "Brainworx bx_masterdesk",
+      "brand": "Plugin Alliance",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["slate fg-x"],
+      "normalizedName": "Slate Digital FG-X",
+      "brand": "Slate Digital",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["slate fg-116", "fg-116"],
+      "normalizedName": "Slate Digital FG-116",
+      "brand": "Slate Digital",
+      "category": "Compressor",
+      "subcategory": "FET Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["slate fg-2a", "fg-2a"],
+      "normalizedName": "Slate Digital FG-2A",
+      "brand": "Slate Digital",
+      "category": "Compressor",
+      "subcategory": "Optical Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["fg-stress"],
+      "normalizedName": "Slate Digital FG-Stress",
+      "brand": "Slate Digital",
+      "category": "Compressor",
+      "subcategory": "Dynamic Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["virtual tape machines", "vtm"],
+      "normalizedName": "Slate Digital Virtual Tape Machines",
+      "brand": "Slate Digital",
+      "category": "Saturation",
+      "subcategory": "Tape Saturation",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["slate fresh air"],
+      "normalizedName": "Slate Digital Fresh Air",
+      "brand": "Slate Digital",
+      "category": "EQ",
+      "subcategory": "Air EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["virtual mix rack", "vmr"],
+      "normalizedName": "Slate Digital Virtual Mix Rack",
+      "brand": "Slate Digital",
+      "category": "Multi-FX",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tube-tech cl 1b"],
+      "normalizedName": "Softube Tube-Tech CL 1B",
+      "brand": "Softube",
+      "category": "Compressor",
+      "subcategory": "Optical Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tube-tech me 1b"],
+      "normalizedName": "Softube Tube-Tech ME 1B",
+      "brand": "Softube",
+      "category": "EQ",
+      "subcategory": "Passive EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["summit audio tla-100", "tla-100"],
+      "normalizedName": "Softube Summit Audio TLA-100A",
+      "brand": "Softube",
+      "category": "Compressor",
+      "subcategory": "Optical Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["softube transient shaper"],
+      "normalizedName": "Softube Transient Shaper",
+      "brand": "Softube",
+      "category": "Transient Shaper",
+      "subcategory": "Transient Designer",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["softube console 1"],
+      "normalizedName": "Softube Console 1",
+      "brand": "Softube",
+      "category": "Multi-FX",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["drawmer 1973"],
+      "normalizedName": "Softube Drawmer 1973",
+      "brand": "Softube",
+      "category": "Compressor",
+      "subcategory": "Multiband Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["marshall silver jubilee"],
+      "normalizedName": "Softube Marshall Silver Jubilee",
+      "brand": "Softube",
+      "category": "Multi-FX",
+      "subcategory": "Guitar Amp Sim",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["lexicon pcm native reverb", "pcm native reverb"],
+      "normalizedName": "Lexicon PCM Native Reverb",
+      "brand": "Lexicon",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["lexicon pcm native effects", "pcm native effects"],
+      "normalizedName": "Lexicon PCM Native Effects",
+      "brand": "Lexicon",
+      "category": "Multi-FX",
+      "subcategory": "FX Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["h3000 factory"],
+      "normalizedName": "Eventide H3000 Factory",
+      "brand": "Eventide",
+      "category": "Multi-FX",
+      "subcategory": "Harmonizer",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["eventide ultrachannel"],
+      "normalizedName": "Eventide UltraChannel",
+      "brand": "Eventide",
+      "category": "Multi-FX",
+      "subcategory": "Channel Strip",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["instant phaser mk2", "instant phaser"],
+      "normalizedName": "Eventide Instant Phaser",
+      "brand": "Eventide",
+      "category": "Phaser",
+      "subcategory": "Analog Phaser",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["instant flanger mk2", "instant flanger"],
+      "normalizedName": "Eventide Instant Flanger",
+      "brand": "Eventide",
+      "category": "Flanger",
+      "subcategory": "Analog Flanger",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["omnipressor"],
+      "normalizedName": "Eventide Omnipressor",
+      "brand": "Eventide",
+      "category": "Compressor",
+      "subcategory": "Dynamic Controller",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["blackhole"],
+      "normalizedName": "Eventide Blackhole",
+      "brand": "Eventide",
+      "category": "Reverb",
+      "subcategory": "Space Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bias amp 2", "bias amp"],
+      "normalizedName": "Positive Grid BIAS Amp 2",
+      "brand": "Positive Grid",
+      "category": "Multi-FX",
+      "subcategory": "Guitar Amp Sim",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["bias fx 2", "bias fx"],
+      "normalizedName": "Positive Grid BIAS FX 2",
+      "brand": "Positive Grid",
+      "category": "Multi-FX",
+      "subcategory": "Guitar FX",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["amplitube 5", "amplitube"],
+      "normalizedName": "IK Multimedia AmpliTube 5",
+      "brand": "IK Multimedia",
+      "category": "Multi-FX",
+      "subcategory": "Guitar Amp Sim",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["t-racks 5", "t-racks"],
+      "normalizedName": "IK Multimedia T-RackS 5",
+      "brand": "IK Multimedia",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["sampletank 4", "sampletank"],
+      "normalizedName": "IK Multimedia SampleTank 4",
+      "brand": "IK Multimedia",
+      "category": "Sampler",
+      "subcategory": "Sample Player",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["shaperbox 3", "shaperbox"],
+      "normalizedName": "Cableguys Shaperbox 3",
+      "brand": "Cableguys",
+      "category": "Multi-FX",
+      "subcategory": "Modulation Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["volumeshaper"],
+      "normalizedName": "Cableguys VolumeShaper",
+      "brand": "Cableguys",
+      "category": "Multi-FX",
+      "subcategory": "Tremolo",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["panshaper"],
+      "normalizedName": "Cableguys PanShaper",
+      "brand": "Cableguys",
+      "category": "Stereo Width",
+      "subcategory": "Auto-Pan",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["filtershaper"],
+      "normalizedName": "Cableguys FilterShaper",
+      "brand": "Cableguys",
+      "category": "Creative FX",
+      "subcategory": "Filter Shaper",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["timeshaper"],
+      "normalizedName": "Cableguys TimeShaper",
+      "brand": "Cableguys",
+      "category": "Creative FX",
+      "subcategory": "Time Modulator",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["phase plant"],
+      "normalizedName": "Kilohearts Phase Plant",
+      "brand": "Kilohearts",
+      "category": "Synthesizer",
+      "subcategory": "Modular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["snap heap"],
+      "normalizedName": "Kilohearts Snap Heap",
+      "brand": "Kilohearts",
+      "category": "Multi-FX",
+      "subcategory": "Modular FX",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["multipass"],
+      "normalizedName": "Kilohearts Multipass",
+      "brand": "Kilohearts",
+      "category": "Multi-FX",
+      "subcategory": "Multiband FX",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["disperser"],
+      "normalizedName": "Kilohearts Disperser",
+      "brand": "Kilohearts",
+      "category": "Creative FX",
+      "subcategory": "Phase Disperser",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["faturator"],
+      "normalizedName": "Kilohearts Faturator",
+      "brand": "Kilohearts",
+      "category": "Distortion",
+      "subcategory": "Stereo Distortion",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["halion 6", "halion 7"],
+      "normalizedName": "Steinberg HALion 6",
+      "brand": "Steinberg",
+      "category": "Sampler",
+      "subcategory": "Sample Player",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["padshop 2", "padshop"],
+      "normalizedName": "Steinberg Padshop 2",
+      "brand": "Steinberg",
+      "category": "Synthesizer",
+      "subcategory": "Granular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["retrologue 2", "retrologue"],
+      "normalizedName": "Steinberg Retrologue 2",
+      "brand": "Steinberg",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["steinberg backbone"],
+      "normalizedName": "Steinberg Backbone",
+      "brand": "Steinberg",
+      "category": "Drum Machine",
+      "subcategory": "Sample Designer",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["the glue"],
+      "normalizedName": "Cytomic The Glue",
+      "brand": "Cytomic",
+      "category": "Compressor",
+      "subcategory": "Bus Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["the drop"],
+      "normalizedName": "Cytomic The Drop",
+      "brand": "Cytomic",
+      "category": "Creative FX",
+      "subcategory": "Filter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tdr nova"],
+      "normalizedName": "Tokyo Dawn Labs TDR Nova",
+      "brand": "Tokyo Dawn Labs",
+      "category": "EQ",
+      "subcategory": "Dynamic EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tdr slickeq", "tdr vos slickeq"],
+      "normalizedName": "Tokyo Dawn Labs TDR VOS SlickEQ",
+      "brand": "Tokyo Dawn Labs",
+      "category": "EQ",
+      "subcategory": "Mixing EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["tdr kotelnikov"],
+      "normalizedName": "Tokyo Dawn Labs TDR Kotelnikov",
+      "brand": "Tokyo Dawn Labs",
+      "category": "Compressor",
+      "subcategory": "Wideband Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["smart:eq 3", "smarteq 3"],
+      "normalizedName": "Sonible smart:EQ 3",
+      "brand": "Sonible",
+      "category": "EQ",
+      "subcategory": "AI EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["smart:comp"],
+      "normalizedName": "Sonible smart:comp",
+      "brand": "Sonible",
+      "category": "Compressor",
+      "subcategory": "AI Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["soothe2", "soothe 2"],
+      "normalizedName": "Oeksound soothe2",
+      "brand": "Oeksound",
+      "category": "EQ",
+      "subcategory": "Resonance Suppressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["oeksound spiff"],
+      "normalizedName": "Oeksound spiff",
+      "brand": "Oeksound",
+      "category": "Transient Shaper",
+      "subcategory": "Transient Designer",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["predator 3", "rob papen predator"],
+      "normalizedName": "Rob Papen Predator 3",
+      "brand": "Rob Papen",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["rob papen punch 2", "punch 2"],
+      "normalizedName": "Rob Papen Punch 2",
+      "brand": "Rob Papen",
+      "category": "Drum Machine",
+      "subcategory": "Electronic Drums",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["rob papen blue-ii", "blue-ii"],
+      "normalizedName": "Rob Papen BLUE-II",
+      "brand": "Rob Papen",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["icarus 3", "tone2 icarus"],
+      "normalizedName": "Tone2 Icarus 3",
+      "brand": "Tone2",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["waldorf nave"],
+      "normalizedName": "Waldorf Nave",
+      "brand": "Waldorf",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["waldorf largo"],
+      "normalizedName": "Waldorf Largo",
+      "brand": "Waldorf",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["ppg wave 3.v", "ppg wave"],
+      "normalizedName": "Waldorf PPG Wave 3.V",
+      "brand": "Waldorf",
+      "category": "Synthesizer",
+      "subcategory": "Wavetable Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["sylenth1"],
+      "normalizedName": "Sylenth1",
+      "brand": "LennarDigital",
+      "category": "Synthesizer",
+      "subcategory": "Virtual Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["chromaphone 3"],
+      "normalizedName": "AAS Chromaphone 3",
+      "brand": "Applied Acoustics Systems",
+      "category": "Synthesizer",
+      "subcategory": "Physical Modeling Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["ultra analog va-3"],
+      "normalizedName": "AAS Ultra Analog VA-3",
+      "brand": "Applied Acoustics Systems",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["lush-101"],
+      "normalizedName": "D16 Group Lush-101",
+      "brand": "D16 Group",
+      "category": "Synthesizer",
+      "subcategory": "Analog Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["drumazon"],
+      "normalizedName": "D16 Group Drumazon",
+      "brand": "D16 Group",
+      "category": "Drum Machine",
+      "subcategory": "909 Drum Machine",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["d16 syntorus 2"],
+      "normalizedName": "D16 Group Syntorus 2",
+      "brand": "D16 Group",
+      "category": "Chorus",
+      "subcategory": "Analog Chorus",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["decimort 2"],
+      "normalizedName": "D16 Group Decimort 2",
+      "brand": "D16 Group",
+      "category": "Creative FX",
+      "subcategory": "Bit Crusher",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["phoscyon 2", "phoscyon"],
+      "normalizedName": "D16 Group Phoscyon 2",
+      "brand": "D16 Group",
+      "category": "Synthesizer",
+      "subcategory": "303 Bass Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["seventh heaven"],
+      "normalizedName": "LiquidSonics Seventh Heaven",
+      "brand": "LiquidSonics",
+      "category": "Reverb",
+      "subcategory": "Convolution Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["reverberate 3"],
+      "normalizedName": "LiquidSonics Reverberate 3",
+      "brand": "LiquidSonics",
+      "category": "Reverb",
+      "subcategory": "Convolution Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["2caudio aether"],
+      "normalizedName": "2CAudio Aether",
+      "brand": "2CAudio",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["mangle"],
+      "normalizedName": "The Mangle",
+      "brand": "Sinevibes",
+      "category": "Synthesizer",
+      "subcategory": "Granular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["gullfoss"],
+      "normalizedName": "Gullfoss",
+      "brand": "Soundtheory",
+      "category": "EQ",
+      "subcategory": "Intelligent EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["madrona aalto"],
+      "normalizedName": "Madrona Labs Aalto",
+      "brand": "Madrona Labs",
+      "category": "Synthesizer",
+      "subcategory": "Modular Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["puremagnetik microtonic", "microtonic"],
+      "normalizedName": "Sonic Charge Microtonic",
+      "brand": "Sonic Charge",
+      "category": "Drum Machine",
+      "subcategory": "Drum Synthesizer",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["polyverse manipulator"],
+      "normalizedName": "Polyverse Manipulator",
+      "brand": "Polyverse",
+      "category": "Vocal Processing",
+      "subcategory": "Pitch Shifter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["polyverse gatekeeper"],
+      "normalizedName": "Polyverse Gatekeeper",
+      "brand": "Polyverse",
+      "category": "Gate",
+      "subcategory": "Rhythmic Gate",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["polyverse infected mushroom i wish", "i wish"],
+      "normalizedName": "Polyverse I Wish",
+      "brand": "Polyverse",
+      "category": "Distortion",
+      "subcategory": "Distortion",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["soundshifter"],
+      "normalizedName": "Waves SoundShifter",
+      "brand": "Waves",
+      "category": "Vocal Processing",
+      "subcategory": "Pitch Shifter",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["waves tune real-time", "waves tune"],
+      "normalizedName": "Waves Tune Real-Time",
+      "brand": "Waves",
+      "category": "Pitch Correction",
+      "subcategory": "Real-time Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["cla mixdown"],
+      "normalizedName": "Waves CLA Mixdown",
+      "brand": "Waves",
+      "category": "Mastering",
+      "subcategory": "Mastering Suite",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["nx ocean way nashville", "nx"],
+      "normalizedName": "Waves Nx",
+      "brand": "Waves",
+      "category": "Multi-FX",
+      "subcategory": "Headphone Mixing",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["izotope relay"],
+      "normalizedName": "iZotope Relay",
+      "brand": "iZotope",
+      "category": "Utility",
+      "subcategory": "Gain Utility",
+      "type": "utility"
+    },
+    {
+      "matchPatterns": ["exponential audio phoenix reverb", "phoenix reverb"],
+      "normalizedName": "Exponential Audio PhoenixVerb",
+      "brand": "Exponential Audio",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["exponential audio r2"],
+      "normalizedName": "Exponential Audio R2",
+      "brand": "Exponential Audio",
+      "category": "Reverb",
+      "subcategory": "Algorithmic Reverb",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["zynaptiq unfilter"],
+      "normalizedName": "Zynaptiq UNFILTER",
+      "brand": "Zynaptiq",
+      "category": "EQ",
+      "subcategory": "Intelligent EQ",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["zynaptiq pitchmap"],
+      "normalizedName": "Zynaptiq PITCHMAP",
+      "brand": "Zynaptiq",
+      "category": "Pitch Correction",
+      "subcategory": "Polyphonic Pitch",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["audio damage roughrider 3"],
+      "normalizedName": "Audio Damage Roughrider 3",
+      "brand": "Audio Damage",
+      "category": "Compressor",
+      "subcategory": "Dynamic Compressor",
+      "type": "effect"
+    },
+    {
+      "matchPatterns": ["reveal sound spire", "spire"],
+      "normalizedName": "Reveal Sound Spire",
+      "brand": "Reveal Sound",
+      "category": "Synthesizer",
+      "subcategory": "Hybrid Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["vital", "matt tytel vital"],
+      "normalizedName": "Vital",
+      "brand": "Matt Tytel",
+      "category": "Synthesizer",
+      "subcategory": "Spectral Warp Synth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["vps avenger", "avenger"],
+      "normalizedName": "Vengeance Sound VPS Avenger",
+      "brand": "Vengeance Sound",
+      "category": "Synthesizer",
+      "subcategory": "Multisynth",
+      "type": "instrument"
+    },
+    {
+      "matchPatterns": ["audio damage dub station"],
+      "normalizedName": "Audio Damage Dub Station 2",
+      "brand": "Audio Damage",
+      "category": "Delay",
+      "subcategory": "Dub Delay",
+      "type": "effect"
+    },
+
+    { "matchPatterns": ["acid v"], "normalizedName": "Arturia Acid V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "TB-303 Emulation", "type": "instrument" },
+    { "matchPatterns": ["analog lab v", "analog lab"], "normalizedName": "Arturia Analog Lab V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Plugin Library", "type": "instrument" },
+    { "matchPatterns": ["augmented brass", "augmented braaass", "se-braaass", "se braaass"], "normalizedName": "Arturia Augmented BRASS", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented grand piano"], "normalizedName": "Arturia Augmented GRAND PIANO", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented mallets"], "normalizedName": "Arturia Augmented MALLETS", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented strings", "augmented striiiings", "se-striiiings", "se striiiings"], "normalizedName": "Arturia Augmented STRINGS", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented voices"], "normalizedName": "Arturia Augmented VOICES", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented woodwinds"], "normalizedName": "Arturia Augmented WOODWINDS", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["augmented yangtze"], "normalizedName": "Arturia Augmented YANGTZE", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["b 3 v2", "b-3 v2", "b3 v2"], "normalizedName": "Arturia B-3 V2", "brand": "Arturia", "category": "Keyboard", "subcategory": "Organ Emulation", "type": "instrument" },
+    { "matchPatterns": ["clavinet v"], "normalizedName": "Arturia Clavinet V", "brand": "Arturia", "category": "Keyboard", "subcategory": "Electric Piano", "type": "instrument" },
+    { "matchPatterns": ["cmi v"], "normalizedName": "Arturia CMI V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Sampler Synth", "type": "instrument" },
+    { "matchPatterns": ["cp 70 v", "cp-70 v", "cp70 v"], "normalizedName": "Arturia CP-70 V", "brand": "Arturia", "category": "Keyboard", "subcategory": "Electric Grand Piano", "type": "instrument" },
+    { "matchPatterns": ["cs 80 v", "cs-80 v", "cs80 v"], "normalizedName": "Arturia CS-80 V4", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Polyphonic Synth", "type": "instrument" },
+    { "matchPatterns": ["cz v"], "normalizedName": "Arturia CZ V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Phase Distortion Synth", "type": "instrument" },
+    { "matchPatterns": ["dx7 v"], "normalizedName": "Arturia DX7 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "FM Synth", "type": "instrument" },
+    { "matchPatterns": ["emulator ii v", "emulator 2 v"], "normalizedName": "Arturia Emulator II V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Sampler Synth", "type": "instrument" },
+    { "matchPatterns": ["farfisa v"], "normalizedName": "Arturia Farfisa V", "brand": "Arturia", "category": "Keyboard", "subcategory": "Organ Emulation", "type": "instrument" },
+    { "matchPatterns": ["jun 6 v", "jun-6 v", "juno 6 v"], "normalizedName": "Arturia Jun-6 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Juno Emulation", "type": "instrument" },
+    { "matchPatterns": ["jup 8 v4", "jup-8 v4", "jupiter 8 v"], "normalizedName": "Arturia Jup-8 V4", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Polyphonic Synth", "type": "instrument" },
+    { "matchPatterns": ["jup 8000 v", "jup-8000 v"], "normalizedName": "Arturia Jup-8000 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Virtual Analog Synth", "type": "instrument" },
+    { "matchPatterns": ["korg ms 20 v", "korg ms-20 v", "ms-20 v"], "normalizedName": "Arturia KORG MS-20 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Semi-Modular Synth", "type": "instrument" },
+    { "matchPatterns": ["matrix 12 v", "matrix-12 v"], "normalizedName": "Arturia Matrix-12 V2", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Polyphonic Synth", "type": "instrument" },
+    { "matchPatterns": ["minibrute v"], "normalizedName": "Arturia MiniBrute V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Analog Synth", "type": "instrument" },
+    { "matchPatterns": ["minifreak v"], "normalizedName": "Arturia MiniFreak V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["modular v3", "modular v2", "modular v"], "normalizedName": "Arturia Modular V3", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Modular Synth", "type": "instrument" },
+    { "matchPatterns": ["op-xa v", "op xa v"], "normalizedName": "Arturia OP-Xa V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Polyphonic Synth", "type": "instrument" },
+    { "matchPatterns": ["piano v3", "piano v2", "piano v"], "normalizedName": "Arturia Piano V3", "brand": "Arturia", "category": "Keyboard", "subcategory": "Acoustic Piano", "type": "instrument" },
+    { "matchPatterns": ["prophet 5 v", "prophet-5 v"], "normalizedName": "Arturia Prophet-5 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Polyphonic Synth", "type": "instrument" },
+    { "matchPatterns": ["prophet vs v", "prophet-vs v"], "normalizedName": "Arturia Prophet VS V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Vector Synth", "type": "instrument" },
+    { "matchPatterns": ["solina v2", "solina v"], "normalizedName": "Arturia Solina V2", "brand": "Arturia", "category": "Keyboard", "subcategory": "String Machine", "type": "instrument" },
+    { "matchPatterns": ["sq80 v", "sq-80 v"], "normalizedName": "Arturia SQ80 V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Wavetable Synth", "type": "instrument" },
+    { "matchPatterns": ["stage 73 v2", "stage-73 v2", "stage 73 v"], "normalizedName": "Arturia Stage-73 V2", "brand": "Arturia", "category": "Keyboard", "subcategory": "Rhodes Emulation", "type": "instrument" },
+    { "matchPatterns": ["synclavier v"], "normalizedName": "Arturia Synclavier V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Hybrid Synth", "type": "instrument" },
+    { "matchPatterns": ["synthx v"], "normalizedName": "Arturia SynthX V", "brand": "Arturia", "category": "Synthesizer", "subcategory": "Digital Synth", "type": "instrument" },
+    { "matchPatterns": ["vocoder v"], "normalizedName": "Arturia Vocoder V", "brand": "Arturia", "category": "Vocal Processing", "subcategory": "Vocoder", "type": "effect" },
+    { "matchPatterns": ["vox continental v2", "vox continental v"], "normalizedName": "Arturia VOX Continental V2", "brand": "Arturia", "category": "Keyboard", "subcategory": "Organ Emulation", "type": "instrument" },
+    { "matchPatterns": ["wurli v3", "wurli v2", "wurli v"], "normalizedName": "Arturia Wurli V3", "brand": "Arturia", "category": "Keyboard", "subcategory": "Wurlitzer Emulation", "type": "instrument" },
+
+    { "matchPatterns": ["bus exciter 104", "bus exciter-104"], "normalizedName": "Arturia Bus EXCITER-104", "brand": "Arturia", "category": "Effect", "subcategory": "Exciter", "type": "effect" },
+    { "matchPatterns": ["bus force"], "normalizedName": "Arturia Bus FORCE", "brand": "Arturia", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["bus peak"], "normalizedName": "Arturia Bus PEAK", "brand": "Arturia", "category": "Effect", "subcategory": "Limiter", "type": "effect" },
+    { "matchPatterns": ["chorus dimension d", "chorus dimension-d"], "normalizedName": "Arturia Chorus DIMENSION-D", "brand": "Arturia", "category": "Modulation", "subcategory": "Chorus", "type": "effect" },
+    { "matchPatterns": ["chorus jun 6", "chorus jun-6"], "normalizedName": "Arturia Chorus JUN-6", "brand": "Arturia", "category": "Modulation", "subcategory": "Chorus", "type": "effect" },
+    { "matchPatterns": ["comp diode 609", "comp diode-609"], "normalizedName": "Arturia Comp DIODE-609", "brand": "Arturia", "category": "Compressor", "subcategory": "Diode Bridge Compressor", "type": "effect" },
+    { "matchPatterns": ["comp fet 76", "comp fet-76"], "normalizedName": "Arturia Comp FET-76", "brand": "Arturia", "category": "Compressor", "subcategory": "FET Compressor", "type": "effect" },
+    { "matchPatterns": ["comp tube sta", "comp tube-sta"], "normalizedName": "Arturia Comp TUBE-STA", "brand": "Arturia", "category": "Compressor", "subcategory": "Tube Compressor", "type": "effect" },
+    { "matchPatterns": ["comp vca 65", "comp vca-65"], "normalizedName": "Arturia Comp VCA-65", "brand": "Arturia", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["delay brigade", "delay brigade"], "normalizedName": "Arturia Delay BRIGADE", "brand": "Arturia", "category": "Delay", "subcategory": "BBD Delay", "type": "effect" },
+    { "matchPatterns": ["delay eternity"], "normalizedName": "Arturia Delay ETERNITY", "brand": "Arturia", "category": "Delay", "subcategory": "Reverb Delay", "type": "effect" },
+    { "matchPatterns": ["delay tape 201", "delay tape-201"], "normalizedName": "Arturia Delay TAPE-201", "brand": "Arturia", "category": "Delay", "subcategory": "Tape Delay", "type": "effect" },
+    { "matchPatterns": ["dist coldfire"], "normalizedName": "Arturia Dist COLDFIRE", "brand": "Arturia", "category": "Distortion", "subcategory": "Distortion", "type": "effect" },
+    { "matchPatterns": ["dist opamp 21", "dist opamp-21"], "normalizedName": "Arturia Dist OPAMP-21", "brand": "Arturia", "category": "Distortion", "subcategory": "Op-Amp Distortion", "type": "effect" },
+    { "matchPatterns": ["dist tube culture", "dist tube-culture"], "normalizedName": "Arturia Dist TUBE-CULTURE", "brand": "Arturia", "category": "Distortion", "subcategory": "Tube Distortion", "type": "effect" },
+    { "matchPatterns": ["eq sitral 295", "eq sitral-295"], "normalizedName": "Arturia EQ SITRAL-295", "brand": "Arturia", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["efx fragments"], "normalizedName": "Arturia Efx FRAGMENTS", "brand": "Arturia", "category": "Effect", "subcategory": "Granular", "type": "effect" },
+    { "matchPatterns": ["efx motions"], "normalizedName": "Arturia Efx MOTIONS", "brand": "Arturia", "category": "Effect", "subcategory": "Sequenced FX", "type": "effect" },
+    { "matchPatterns": ["efx refract"], "normalizedName": "Arturia Efx REFRACT", "brand": "Arturia", "category": "Modulation", "subcategory": "Harmonizer", "type": "effect" },
+    { "matchPatterns": ["filter m12"], "normalizedName": "Arturia Filter M12", "brand": "Arturia", "category": "Filter", "subcategory": "Matrix Filter", "type": "effect" },
+    { "matchPatterns": ["filter mini"], "normalizedName": "Arturia Filter MINI", "brand": "Arturia", "category": "Filter", "subcategory": "Moog Filter", "type": "effect" },
+    { "matchPatterns": ["filter ms 20", "filter ms-20"], "normalizedName": "Arturia Filter MS-20", "brand": "Arturia", "category": "Filter", "subcategory": "Korg Filter", "type": "effect" },
+    { "matchPatterns": ["filter sem"], "normalizedName": "Arturia Filter SEM", "brand": "Arturia", "category": "Filter", "subcategory": "State Variable Filter", "type": "effect" },
+    { "matchPatterns": ["flanger bl 20", "flanger bl-20"], "normalizedName": "Arturia Flanger BL-20", "brand": "Arturia", "category": "Modulation", "subcategory": "Flanger", "type": "effect" },
+    { "matchPatterns": ["phaser bi tron", "phaser bi-tron"], "normalizedName": "Arturia Phaser BI-TRON", "brand": "Arturia", "category": "Modulation", "subcategory": "Phaser", "type": "effect" },
+    { "matchPatterns": ["pre 1973"], "normalizedName": "Arturia Pre 1973", "brand": "Arturia", "category": "Preamp", "subcategory": "Neve Preamp", "type": "effect" },
+    { "matchPatterns": ["pre trida"], "normalizedName": "Arturia Pre TridA", "brand": "Arturia", "category": "Preamp", "subcategory": "Trident Preamp", "type": "effect" },
+    { "matchPatterns": ["pre v76"], "normalizedName": "Arturia Pre V76", "brand": "Arturia", "category": "Preamp", "subcategory": "Telefunken Preamp", "type": "effect" },
+    { "matchPatterns": ["rev intensity"], "normalizedName": "Arturia Rev INTENSITY", "brand": "Arturia", "category": "Reverb", "subcategory": "Algorithmic Reverb", "type": "effect" },
+    { "matchPatterns": ["rev lx 24", "rev lx-24"], "normalizedName": "Arturia Rev LX-24", "brand": "Arturia", "category": "Reverb", "subcategory": "Digital Reverb", "type": "effect" },
+    { "matchPatterns": ["rev plate 140", "rev plate-140"], "normalizedName": "Arturia Rev PLATE-140", "brand": "Arturia", "category": "Reverb", "subcategory": "Plate Reverb", "type": "effect" },
+    { "matchPatterns": ["rev spring 636", "rev spring-636"], "normalizedName": "Arturia Rev SPRING-636", "brand": "Arturia", "category": "Reverb", "subcategory": "Spring Reverb", "type": "effect" },
+    { "matchPatterns": ["rotary cls 222", "rotary cls-222"], "normalizedName": "Arturia Rotary CLS-222", "brand": "Arturia", "category": "Modulation", "subcategory": "Rotary Speaker", "type": "effect" },
+    { "matchPatterns": ["tape mello fi", "tape mello-fi"], "normalizedName": "Arturia Tape MELLO-FI", "brand": "Arturia", "category": "Effect", "subcategory": "Lo-Fi Tape", "type": "effect" },
+
+    { "matchPatterns": ["ampeg b15n", "ampeg b-15n"], "normalizedName": "Ampeg B-15N", "brand": "Ampeg", "category": "Amp Sim", "subcategory": "Bass Amp", "type": "effect" },
+    { "matchPatterns": ["ampeg svt3pro", "ampeg svt 3 pro", "ampeg svt3 pro"], "normalizedName": "Ampeg SVT3Pro", "brand": "Ampeg", "category": "Amp Sim", "subcategory": "Bass Amp", "type": "effect" },
+    { "matchPatterns": ["ampeg svtvr", "ampeg svt vr", "ampeg svt-vr"], "normalizedName": "Ampeg SVTVR", "brand": "Ampeg", "category": "Amp Sim", "subcategory": "Bass Amp", "type": "effect" },
+    { "matchPatterns": ["ampeg v4b", "ampeg v-4b"], "normalizedName": "Ampeg V4B", "brand": "Ampeg", "category": "Amp Sim", "subcategory": "Bass Amp", "type": "effect" },
+    { "matchPatterns": ["diezel herbert"], "normalizedName": "Diezel Herbert", "brand": "Diezel", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["diezel vh4", "diezel vh-4"], "normalizedName": "Diezel VH4", "brand": "Diezel", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["engl e646 vs", "engl e646"], "normalizedName": "ENGL E646 VS", "brand": "ENGL", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["engl e765 rt", "engl e765"], "normalizedName": "ENGL E765 RT", "brand": "ENGL", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["engl savage 120"], "normalizedName": "ENGL Savage 120", "brand": "ENGL", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["friedman be100", "friedman be-100"], "normalizedName": "Friedman BE100", "brand": "Friedman", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["friedman buxom betty"], "normalizedName": "Friedman Buxom Betty", "brand": "Friedman", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["friedman ds40"], "normalizedName": "Friedman DS40", "brand": "Friedman", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["fuchs overdrive supreme"], "normalizedName": "Fuchs Overdrive Supreme 50", "brand": "Fuchs", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["fuchs train ii", "fuchs train 2"], "normalizedName": "Fuchs Train II", "brand": "Fuchs", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["chandler gav19t", "chandler gav 19t"], "normalizedName": "Chandler GAV19T", "brand": "Chandler Limited", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["gallien krueger 800rb", "gallien-krueger 800rb"], "normalizedName": "Gallien Krueger 800RB", "brand": "Plugin Alliance", "category": "Amp Sim", "subcategory": "Bass Amp", "type": "effect" },
+    { "matchPatterns": ["suhr pt100"], "normalizedName": "Suhr PT100", "brand": "Suhr", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+    { "matchPatterns": ["suhr se100"], "normalizedName": "Suhr SE100", "brand": "Suhr", "category": "Amp Sim", "subcategory": "Guitar Amp", "type": "effect" },
+
+    { "matchPatterns": ["maag eq2"], "normalizedName": "Maag EQ2", "brand": "Maag Audio", "category": "EQ", "subcategory": "Passive EQ", "type": "effect" },
+    { "matchPatterns": ["maag eq4 ms", "maag eq4ms"], "normalizedName": "Maag EQ4 MS", "brand": "Maag Audio", "category": "EQ", "subcategory": "Passive EQ", "type": "effect" },
+    { "matchPatterns": ["maag eq4"], "normalizedName": "Maag EQ4", "brand": "Maag Audio", "category": "EQ", "subcategory": "Passive EQ", "type": "effect" },
+    { "matchPatterns": ["maag magnum k", "maag magnum-k"], "normalizedName": "Maag MAGNUM-K", "brand": "Maag Audio", "category": "Compressor", "subcategory": "Compressor", "type": "effect" },
+    { "matchPatterns": ["millennia nseq 2", "millennia nseq-2"], "normalizedName": "Millennia NSEQ-2", "brand": "Millennia", "category": "EQ", "subcategory": "Tube EQ", "type": "effect" },
+    { "matchPatterns": ["millennia tcl 2", "millennia tcl-2"], "normalizedName": "Millennia TCL-2", "brand": "Millennia", "category": "Compressor", "subcategory": "Tube Compressor", "type": "effect" },
+    { "matchPatterns": ["dangerous bax eq master"], "normalizedName": "Dangerous BAX EQ Master", "brand": "Dangerous Music", "category": "EQ", "subcategory": "Mastering EQ", "type": "effect" },
+    { "matchPatterns": ["dangerous bax eq mix"], "normalizedName": "Dangerous BAX EQ Mix", "brand": "Dangerous Music", "category": "EQ", "subcategory": "Mix EQ", "type": "effect" },
+    { "matchPatterns": ["amek eq 200", "amek eq200"], "normalizedName": "AMEK EQ 200", "brand": "Plugin Alliance", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["amek eq 250", "amek eq250"], "normalizedName": "AMEK EQ 250", "brand": "Plugin Alliance", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["amek mastering compressor"], "normalizedName": "AMEK Mastering Compressor", "brand": "Plugin Alliance", "category": "Compressor", "subcategory": "Mastering Compressor", "type": "effect" },
+    { "matchPatterns": ["black box analog design hg-2ms", "black box analog design hg 2ms"], "normalizedName": "Black Box Analog Design HG-2MS", "brand": "Plugin Alliance", "category": "Saturation", "subcategory": "Harmonic Generator", "type": "effect" },
+    { "matchPatterns": ["black box analog design hg-2", "black box analog design hg 2"], "normalizedName": "Black Box Analog Design HG-2", "brand": "Plugin Alliance", "category": "Saturation", "subcategory": "Harmonic Generator", "type": "effect" },
+    { "matchPatterns": ["black box analog design hg-q", "black box analog design hg q"], "normalizedName": "Black Box Analog Design HG-Q", "brand": "Plugin Alliance", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["purple audio mc 77", "purple audio mc77"], "normalizedName": "Purple Audio MC77", "brand": "Purple Audio", "category": "Compressor", "subcategory": "FET Compressor", "type": "effect" },
+    { "matchPatterns": ["shadow hills mastering compressor"], "normalizedName": "Shadow Hills Mastering Compressor", "brand": "Shadow Hills", "category": "Compressor", "subcategory": "Mastering Compressor", "type": "effect" },
+    { "matchPatterns": ["shadow hills class a mastering"], "normalizedName": "Shadow Hills Class A Mastering Comp", "brand": "Shadow Hills", "category": "Compressor", "subcategory": "Mastering Compressor", "type": "effect" },
+    { "matchPatterns": ["shadow hills optomax"], "normalizedName": "Shadow Hills OptoMax", "brand": "Shadow Hills", "category": "Compressor", "subcategory": "Optical Compressor", "type": "effect" },
+    { "matchPatterns": ["vertigo vsc-2", "vertigo vsc 2"], "normalizedName": "Vertigo VSC-2", "brand": "Vertigo Sound", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["vertigo vsm-3", "vertigo vsm 3"], "normalizedName": "Vertigo VSM-3", "brand": "Vertigo Sound", "category": "Saturation", "subcategory": "Harmonic Saturator", "type": "effect" },
+    { "matchPatterns": ["vertigo vss-2", "vertigo vss 2"], "normalizedName": "Vertigo VSS-2", "brand": "Vertigo Sound", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["acme opticom xla-3", "acme opticom xla 3"], "normalizedName": "Acme Opticom XLA-3", "brand": "Plugin Alliance", "category": "Compressor", "subcategory": "Optical Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 254e", "lindell 254-e"], "normalizedName": "Lindell 254E", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 354e", "lindell 354-e"], "normalizedName": "Lindell 354E", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 50 buss"], "normalizedName": "Lindell 50 Buss", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 50 channel"], "normalizedName": "Lindell 50 Channel", "brand": "Lindell Audio", "category": "Channel Strip", "subcategory": "Channel Strip", "type": "effect" },
+    { "matchPatterns": ["lindell 69 buss"], "normalizedName": "Lindell 69 Buss", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 69 channel"], "normalizedName": "Lindell 69 Channel", "brand": "Lindell Audio", "category": "Channel Strip", "subcategory": "Channel Strip", "type": "effect" },
+    { "matchPatterns": ["lindell 6x-500", "lindell 6x 500"], "normalizedName": "Lindell 6X-500", "brand": "Lindell Audio", "category": "EQ", "subcategory": "500 Series EQ", "type": "effect" },
+    { "matchPatterns": ["lindell 7x-500", "lindell 7x 500"], "normalizedName": "Lindell 7X-500", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "500 Series Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 80 bus", "lindell 80 buss"], "normalizedName": "Lindell 80 Bus", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell 80 channel"], "normalizedName": "Lindell 80 Channel", "brand": "Lindell Audio", "category": "Channel Strip", "subcategory": "Channel Strip", "type": "effect" },
+    { "matchPatterns": ["lindell 902 de-esser", "lindell 902 de esser"], "normalizedName": "Lindell 902 De-esser", "brand": "Lindell Audio", "category": "Vocal Processing", "subcategory": "De-esser", "type": "effect" },
+    { "matchPatterns": ["lindell channelx"], "normalizedName": "Lindell ChannelX", "brand": "Lindell Audio", "category": "Channel Strip", "subcategory": "Channel Strip", "type": "effect" },
+    { "matchPatterns": ["lindell eq825"], "normalizedName": "Lindell EQ825", "brand": "Lindell Audio", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["lindell mbc"], "normalizedName": "Lindell MBC", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Multiband Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell mu-66", "lindell mu 66"], "normalizedName": "Lindell MU-66", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Tube Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell pex-500", "lindell pex 500"], "normalizedName": "Lindell PEX-500", "brand": "Lindell Audio", "category": "EQ", "subcategory": "500 Series EQ", "type": "effect" },
+    { "matchPatterns": ["lindell sbc"], "normalizedName": "Lindell SBC", "brand": "Lindell Audio", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["lindell te-100", "lindell te 100"], "normalizedName": "Lindell TE-100", "brand": "Lindell Audio", "category": "Effect", "subcategory": "Tape Emulation", "type": "effect" },
+
+    { "matchPatterns": ["elysia alpha compressor"], "normalizedName": "elysia alpha compressor", "brand": "elysia", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["elysia alpha master"], "normalizedName": "elysia alpha master", "brand": "elysia", "category": "Compressor", "subcategory": "Mastering Compressor", "type": "effect" },
+    { "matchPatterns": ["elysia alpha mix"], "normalizedName": "elysia alpha mix", "brand": "elysia", "category": "Compressor", "subcategory": "Mix Compressor", "type": "effect" },
+    { "matchPatterns": ["elysia karacter master"], "normalizedName": "elysia karacter master", "brand": "elysia", "category": "Saturation", "subcategory": "Harmonic Saturator", "type": "effect" },
+    { "matchPatterns": ["elysia karacter mix"], "normalizedName": "elysia karacter mix", "brand": "elysia", "category": "Saturation", "subcategory": "Harmonic Saturator", "type": "effect" },
+    { "matchPatterns": ["elysia mpressor"], "normalizedName": "elysia mpressor", "brand": "elysia", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["elysia museq master"], "normalizedName": "elysia museq Master", "brand": "elysia", "category": "EQ", "subcategory": "Mastering EQ", "type": "effect" },
+    { "matchPatterns": ["elysia museq mix"], "normalizedName": "elysia museq Mix", "brand": "elysia", "category": "EQ", "subcategory": "Mix EQ", "type": "effect" },
+    { "matchPatterns": ["elysia niveau filter"], "normalizedName": "elysia niveau filter", "brand": "elysia", "category": "Filter", "subcategory": "Tilt EQ", "type": "effect" },
+    { "matchPatterns": ["elysia nvelope"], "normalizedName": "elysia nvelope", "brand": "elysia", "category": "Dynamics", "subcategory": "Transient Shaper", "type": "effect" },
+    { "matchPatterns": ["elysia phils cascade"], "normalizedName": "elysia phils cascade", "brand": "elysia", "category": "Compressor", "subcategory": "Optical Compressor", "type": "effect" },
+
+    { "matchPatterns": ["adptr hype", "adptr audio hype"], "normalizedName": "ADPTR Hype", "brand": "ADPTR Audio", "category": "Saturation", "subcategory": "Harmonic Exciter", "type": "effect" },
+    { "matchPatterns": ["adptr metricab", "adptr metric ab"], "normalizedName": "ADPTR MetricAB", "brand": "ADPTR Audio", "category": "Utility", "subcategory": "A/B Comparator", "type": "effect" },
+    { "matchPatterns": ["adptr sculpt"], "normalizedName": "ADPTR Sculpt", "brand": "ADPTR Audio", "category": "Dynamics", "subcategory": "Multiband Transient", "type": "effect" },
+    { "matchPatterns": ["adptr streamliner"], "normalizedName": "ADPTR StreamLiner", "brand": "ADPTR Audio", "category": "Dynamics", "subcategory": "Loudness", "type": "effect" },
+    { "matchPatterns": ["adptr utopia"], "normalizedName": "ADPTR Utopia", "brand": "ADPTR Audio", "category": "Utility", "subcategory": "Monitor Controller", "type": "effect" },
+
+    { "matchPatterns": ["bettermaker bm60"], "normalizedName": "Bettermaker BM60", "brand": "Bettermaker", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["bettermaker bus compressor dsp"], "normalizedName": "Bettermaker Bus Compressor DSP", "brand": "Bettermaker", "category": "Compressor", "subcategory": "Bus Compressor", "type": "effect" },
+    { "matchPatterns": ["bettermaker c502v dsp"], "normalizedName": "Bettermaker C502V DSP", "brand": "Bettermaker", "category": "Compressor", "subcategory": "Compressor", "type": "effect" },
+    { "matchPatterns": ["bettermaker eq232d"], "normalizedName": "Bettermaker EQ232D", "brand": "Bettermaker", "category": "EQ", "subcategory": "Mastering EQ", "type": "effect" },
+    { "matchPatterns": ["bettermaker mastering compressor"], "normalizedName": "Bettermaker Mastering Compressor DSP", "brand": "Bettermaker", "category": "Compressor", "subcategory": "Mastering Compressor", "type": "effect" },
+    { "matchPatterns": ["bettermaker passive equalizer"], "normalizedName": "Bettermaker Passive Equalizer", "brand": "Bettermaker", "category": "EQ", "subcategory": "Passive EQ", "type": "effect" },
+
+    { "matchPatterns": ["neold big al", "neold bIG AL"], "normalizedName": "NEOLD BIG AL", "brand": "NEOLD", "category": "Compressor", "subcategory": "VCA Compressor", "type": "effect" },
+    { "matchPatterns": ["neold oldtimer"], "normalizedName": "NEOLD OLDTIMER", "brand": "NEOLD", "category": "Compressor", "subcategory": "Vintage Compressor", "type": "effect" },
+    { "matchPatterns": ["neold rz062"], "normalizedName": "NEOLD RZ062", "brand": "NEOLD", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+    { "matchPatterns": ["neold u17"], "normalizedName": "NEOLD U17", "brand": "NEOLD", "category": "Effect", "subcategory": "Harmonic Shaper", "type": "effect" },
+    { "matchPatterns": ["neold u2a"], "normalizedName": "NEOLD U2A", "brand": "NEOLD", "category": "Compressor", "subcategory": "Optical Compressor", "type": "effect" },
+    { "matchPatterns": ["neold v76u73"], "normalizedName": "NEOLD V76U73", "brand": "NEOLD", "category": "Preamp", "subcategory": "Tube Preamp", "type": "effect" },
+    { "matchPatterns": ["neold warble"], "normalizedName": "NEOLD WARBLE", "brand": "NEOLD", "category": "Modulation", "subcategory": "Wow & Flutter", "type": "effect" },
+    { "matchPatterns": ["neold wunderlich"], "normalizedName": "NEOLD WUNDERLICH", "brand": "NEOLD", "category": "EQ", "subcategory": "Vintage EQ", "type": "effect" },
+
+    { "matchPatterns": ["unfiltered audio bass mint"], "normalizedName": "Unfiltered Audio Bass Mint", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Bass Enhancer", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio battalion"], "normalizedName": "Unfiltered Audio Battalion", "brand": "Unfiltered Audio", "category": "Distortion", "subcategory": "Bitcrusher", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio byome"], "normalizedName": "Unfiltered Audio Byome", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Modular FX", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio dent 2", "unfiltered audio dent2"], "normalizedName": "Unfiltered Audio Dent 2", "brand": "Unfiltered Audio", "category": "Distortion", "subcategory": "Waveshaper", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio fault"], "normalizedName": "Unfiltered Audio Fault", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Glitch FX", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio g8"], "normalizedName": "Unfiltered Audio G8", "brand": "Unfiltered Audio", "category": "Dynamics", "subcategory": "Gate", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio indent 2"], "normalizedName": "Unfiltered Audio Indent 2", "brand": "Unfiltered Audio", "category": "Dynamics", "subcategory": "Compressor", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio instant delay"], "normalizedName": "Unfiltered Audio Instant Delay", "brand": "Unfiltered Audio", "category": "Delay", "subcategory": "Delay", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio lion"], "normalizedName": "Unfiltered Audio LION", "brand": "Unfiltered Audio", "category": "Synthesizer", "subcategory": "Multisynth", "type": "instrument" },
+    { "matchPatterns": ["unfiltered audio lo fi af", "unfiltered audio lo-fi-af"], "normalizedName": "Unfiltered Audio lo-fi-af", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Lo-Fi", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio needlepoint"], "normalizedName": "Unfiltered Audio Needlepoint", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Sample Rate Reducer", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio sandman pro"], "normalizedName": "Unfiltered Audio Sandman Pro", "brand": "Unfiltered Audio", "category": "Delay", "subcategory": "Pitch Delay", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio sandman"], "normalizedName": "Unfiltered Audio Sandman", "brand": "Unfiltered Audio", "category": "Delay", "subcategory": "Delay", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio silo"], "normalizedName": "Unfiltered Audio Silo", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Granular", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio specops"], "normalizedName": "Unfiltered Audio SpecOps", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Spectral FX", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio tails"], "normalizedName": "Unfiltered Audio Tails", "brand": "Unfiltered Audio", "category": "Reverb", "subcategory": "Reverb", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio triad"], "normalizedName": "Unfiltered Audio Triad", "brand": "Unfiltered Audio", "category": "Effect", "subcategory": "Multiband FX", "type": "effect" },
+    { "matchPatterns": ["unfiltered audio zip"], "normalizedName": "Unfiltered Audio Zip", "brand": "Unfiltered Audio", "category": "Dynamics", "subcategory": "Transient Shaper", "type": "effect" },
+
+    { "matchPatterns": ["kiive tape face"], "normalizedName": "Kiive Tape Face", "brand": "Kiive Audio", "category": "Effect", "subcategory": "Tape Saturation", "type": "effect" },
+    { "matchPatterns": ["kiive xtcomp"], "normalizedName": "Kiive XTComp", "brand": "Kiive Audio", "category": "Compressor", "subcategory": "Compressor", "type": "effect" },
+
+    { "matchPatterns": ["virtual pianist"], "normalizedName": "UJAM Virtual Pianist", "brand": "UJAM", "category": "Instrument", "subcategory": "Piano", "type": "instrument" },
+    { "matchPatterns": ["beatmaker"], "normalizedName": "UJAM BEATMAKER", "brand": "UJAM", "category": "Instrument", "subcategory": "Beat Machine", "type": "instrument" },
+    { "matchPatterns": ["usynth"], "normalizedName": "UJAM USYNTH", "brand": "UJAM", "category": "Synthesizer", "subcategory": "Virtual Analog Synth", "type": "instrument" },
+    { "matchPatterns": ["voxcraft"], "normalizedName": "UJAM VOXCRAFT", "brand": "UJAM", "category": "Instrument", "subcategory": "Vocal Instrument", "type": "instrument" },
+
+    { "matchPatterns": ["komplete kontrol"], "normalizedName": "Native Instruments Komplete Kontrol", "brand": "Native Instruments", "category": "Utility", "subcategory": "Plugin Host", "type": "instrument" },
+    { "matchPatterns": ["kontakt 8"], "normalizedName": "Native Instruments Kontakt 8", "brand": "Native Instruments", "category": "Sampler", "subcategory": "Sampler", "type": "instrument" },
+    { "matchPatterns": ["raum"], "normalizedName": "Native Instruments Raum", "brand": "Native Instruments", "category": "Reverb", "subcategory": "Algorithmic Reverb", "type": "effect" },
+    { "matchPatterns": ["choral"], "normalizedName": "Native Instruments Choral", "brand": "Native Instruments", "category": "Modulation", "subcategory": "Chorus", "type": "effect" },
+    { "matchPatterns": ["flair"], "normalizedName": "Native Instruments Flair", "brand": "Native Instruments", "category": "Modulation", "subcategory": "Flanger", "type": "effect" },
+    { "matchPatterns": ["phasis"], "normalizedName": "Native Instruments Phasis", "brand": "Native Instruments", "category": "Modulation", "subcategory": "Phaser", "type": "effect" },
+
+    { "matchPatterns": ["auto-key", "auto key"], "normalizedName": "Antares Auto-Key", "brand": "Antares", "category": "Utility", "subcategory": "Key Detection", "type": "effect" },
+    { "matchPatterns": ["auto tune access", "auto-tune access"], "normalizedName": "Antares Auto-Tune Access", "brand": "Antares", "category": "Vocal Processing", "subcategory": "Pitch Correction", "type": "effect" },
+    { "matchPatterns": ["auto tune artist", "auto-tune artist"], "normalizedName": "Antares Auto-Tune Artist", "brand": "Antares", "category": "Vocal Processing", "subcategory": "Pitch Correction", "type": "effect" },
+    { "matchPatterns": ["auto tune efx", "auto-tune efx"], "normalizedName": "Antares Auto-Tune EFX+", "brand": "Antares", "category": "Vocal Processing", "subcategory": "Pitch Correction", "type": "effect" },
+    { "matchPatterns": ["auto tune"], "normalizedName": "Antares Auto-Tune", "brand": "Antares", "category": "Vocal Processing", "subcategory": "Pitch Correction", "type": "effect" },
+
+    { "matchPatterns": ["izozone imager", "izotope ozone imager", "ozone imager 2"], "normalizedName": "iZotope Ozone Imager 2", "brand": "iZotope", "category": "Stereo", "subcategory": "Stereo Imager", "type": "effect" },
+    { "matchPatterns": ["ozone 12 equalizer"], "normalizedName": "iZotope Ozone 12 Equalizer", "brand": "iZotope", "category": "EQ", "subcategory": "Mastering EQ", "type": "effect" },
+    { "matchPatterns": ["izvocaldoubler", "izotope vocal doubler", "vocal doubler"], "normalizedName": "iZotope Vocal Doubler", "brand": "iZotope", "category": "Vocal Processing", "subcategory": "Doubler", "type": "effect" },
+    { "matchPatterns": ["izvinyl", "iz vinyl"], "normalizedName": "iZotope iZotope Vinyl", "brand": "iZotope", "category": "Effect", "subcategory": "Vinyl Simulator", "type": "effect" },
+    { "matchPatterns": ["trash"], "normalizedName": "iZotope Trash", "brand": "iZotope", "category": "Distortion", "subcategory": "Multi-Distortion", "type": "effect" },
+
+    { "matchPatterns": ["soundid reference vst"], "normalizedName": "Sonarworks SoundID Reference", "brand": "Sonarworks", "category": "Utility", "subcategory": "Room Correction", "type": "effect" },
+    { "matchPatterns": ["dearvr pro 2", "dearvr pro", "dear vr pro"], "normalizedName": "Dear Reality dearVR PRO 2", "brand": "Dear Reality", "category": "Reverb", "subcategory": "Binaural Reverb", "type": "effect" },
+    { "matchPatterns": ["roli studio drums", "roli studio player"], "normalizedName": "ROLI Studio", "brand": "ROLI", "category": "Instrument", "subcategory": "Studio Instruments", "type": "instrument" },
+    { "matchPatterns": ["krotoss", "krotos studio"], "normalizedName": "Krotos Studio", "brand": "Krotos", "category": "Utility", "subcategory": "Sound Design", "type": "effect" },
+    { "matchPatterns": ["tbtech kirchhoff", "kirchhoff-eq", "kirchhoff eq"], "normalizedName": "TBTECH Kirchhoff-EQ", "brand": "TBTECH", "category": "EQ", "subcategory": "Parametric EQ", "type": "effect" },
+    { "matchPatterns": ["tbtech trinity shaper", "trinity shaper"], "normalizedName": "TBTECH Trinity Shaper", "brand": "TBTECH", "category": "Dynamics", "subcategory": "Transient Shaper", "type": "effect" },
+    { "matchPatterns": ["tbtech cenozoix", "cenozoix compressor"], "normalizedName": "TBTECH Cenozoix Compressor", "brand": "TBTECH", "category": "Compressor", "subcategory": "Compressor", "type": "effect" },
+    { "matchPatterns": ["fiedler audio stage"], "normalizedName": "fiedler audio stage", "brand": "fiedler audio", "category": "Reverb", "subcategory": "Spatial Audio", "type": "effect" },
+    { "matchPatterns": ["fiedler audio splat"], "normalizedName": "fiedler audio splat", "brand": "fiedler audio", "category": "Effect", "subcategory": "Spatial FX", "type": "effect" },
+    { "matchPatterns": ["uvixworkstation", "uviworkstation", "uviworkstationvst"], "normalizedName": "UVI Workstation", "brand": "UVI", "category": "Sampler", "subcategory": "Sample Player", "type": "instrument" },
+    { "matchPatterns": ["ana2 x64", "ana 2", "ana2"], "normalizedName": "Sonic Academy ANA 2", "brand": "Sonic Academy", "category": "Synthesizer", "subcategory": "Virtual Analog Synth", "type": "instrument" },
+    { "matchPatterns": ["ds thorn"], "normalizedName": "Dmitry Sches Thorn", "brand": "Dmitry Sches", "category": "Synthesizer", "subcategory": "Spectral Synth", "type": "instrument" },
+    { "matchPatterns": ["ds tantra 2", "ds tantra"], "normalizedName": "Dmitry Sches Tantra 2", "brand": "Dmitry Sches", "category": "Effect", "subcategory": "Modular FX", "type": "effect" },
+    { "matchPatterns": ["splice instrument"], "normalizedName": "Splice Instrument", "brand": "Splice", "category": "Instrument", "subcategory": "Sample-based", "type": "instrument" }
+  ],
+  "brandAliases": {
+    "fabfilter": "FabFilter",
+    "valhalla": "Valhalla DSP",
+    "izotope": "iZotope",
+    "i-zotope": "iZotope",
+    "native instruments": "Native Instruments",
+    "waves": "Waves",
+    "spectrasonics": "Spectrasonics",
+    "xfer records": "Xfer Records",
+    "xfer": "Xfer Records",
+    "soundtoys": "Soundtoys",
+    "universal audio": "Universal Audio",
+    "arturia": "Arturia",
+    "u-he": "u-he",
+    "celemony": "Celemony",
+    "antares": "Antares",
+    "xln audio": "XLN Audio",
+    "xlnaudio": "XLN Audio",
+    "sugar bytes": "Sugar Bytes",
+    "plugin alliance": "Plugin Alliance",
+    "brainworx": "Plugin Alliance",
+    "bx_": "Plugin Alliance",
+    "slate digital": "Slate Digital",
+    "softube": "Softube",
+    "lexicon": "Lexicon",
+    "eventide": "Eventide",
+    "positive grid": "Positive Grid",
+    "ik multimedia": "IK Multimedia",
+    "amplitube": "IK Multimedia",
+    "t-racks": "IK Multimedia",
+    "cableguys": "Cableguys",
+    "kilohearts": "Kilohearts",
+    "khs": "Kilohearts",
+    "steinberg": "Steinberg",
+    "cytomic": "Cytomic",
+    "tokyo dawn": "Tokyo Dawn Labs",
+    "tdr": "Tokyo Dawn Labs",
+    "sonible": "Sonible",
+    "oeksound": "Oeksound",
+    "rob papen": "Rob Papen",
+    "tone2": "Tone2",
+    "waldorf": "Waldorf",
+    "sylenth1": "LennarDigital",
+    "d16 group": "D16 Group",
+    "d16": "D16 Group",
+    "liquidsonics": "LiquidSonics",
+    "output": "Output",
+    "polyverse": "Polyverse",
+    "bx ": "Brainworx",
+    "spl ": "SPL",
+    "elysia": "elysia",
+    "unfiltered audio": "Unfiltered Audio",
+    "adptr": "ADPTR Audio",
+    "bettermaker": "Bettermaker",
+    "lindell": "Lindell Audio",
+    "neold": "NEOLD",
+    "kiive": "Kiive Audio",
+    "swivel audio": "Swivel Audio",
+    "maag": "Maag Audio",
+    "shadow hills": "Shadow Hills",
+    "vertigo sound": "Vertigo Sound",
+    "millennia": "Millennia",
+    "chandler": "Chandler Limited",
+    "ampeg": "Ampeg",
+    "diezel": "Diezel",
+    "friedman": "Friedman",
+    "fuchs": "Fuchs",
+    "suhr": "Suhr",
+    "dangerous music": "Dangerous Music",
+    "dangerous bax": "Dangerous Music",
+    "acme opticom": "Plugin Alliance",
+    "purple audio": "Purple Audio",
+    "knif audio": "Knif Audio",
+    "fiedler audio": "fiedler audio",
+    "ujam": "UJAM",
+    "uvi": "UVI",
+    "sonarworks": "Sonarworks",
+    "soundid": "Sonarworks",
+    "dearvr": "Dear Reality",
+    "roli": "ROLI",
+    "krotos": "Krotos",
+    "tbtech": "TBTECH",
+    "sonic academy": "Sonic Academy",
+    "noveltech": "Noveltech",
+    "engl ": "ENGL",
+    "pure lofi": "Pure LoFi"
+  }
+}

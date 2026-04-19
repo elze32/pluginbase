@@ -1,0 +1,140 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String   @id @default(cuid())
+  email         String   @unique
+  passwordHash  String
+  createdAt     DateTime @default(now())
+  installations PluginInstallation[]
+  states        UserPluginState[]
+  sessions      Session[]
+}
+
+model Session {
+  id        String   @id @default(cuid())
+  userId    String
+  token     String   @unique
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model PluginInstallation {
+  id                   String   @id @default(cuid())
+  userId               String
+  pluginNameRaw        String
+  normalizedPluginName String
+  brandRaw             String?
+  normalizedBrand      String?
+  format               String
+  version              String?
+  installPath          String
+  os                   String
+  category             String?
+  confidence           String?
+  pendingDeletion      Boolean  @default(false)
+  pendingDeletionError String?
+  detectedAt           DateTime @default(now())
+  user                 User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  state                UserPluginState?
+  master               PluginMaster?    @relation(fields: [normalizedPluginName], references: [normalizedPluginName])
+}
+
+model PluginMaster {
+  normalizedPluginName String  @id
+  normalizedBrand      String?
+  pluginType           String?
+  category             String?
+  subcategory          String?
+  descriptionFr        String?
+  parametersJson       String?
+  installations        PluginInstallation[]
+}
+
+model UserPluginState {
+  id               String      @id @default(cuid())
+  userId           String
+  installationId   String      @unique
+  status           Status      @default(UNCLASSIFIED)
+  favorite         Boolean     @default(false)
+  rating           Int?
+  personalNote     String?
+  customTags       String[]
+  usageEstimate    UsageLevel?
+  purchaseInterest Boolean     @default(false)
+  sellInterest     Boolean     @default(false)
+  updatedAt        DateTime    @updatedAt
+  user             User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  installation     PluginInstallation @relation(fields: [installationId], references: [id], onDelete: Cascade)
+}
+
+enum Status {
+  UNCLASSIFIED
+  ESSENTIAL
+  DOUBLON
+  UNUSED
+  TO_LEARN
+  TO_SELL
+  TO_TEST
+}
+
+enum UsageLevel {
+  DAILY
+  WEEKLY
+  RARELY
+  NEVER
+}
+
+model PluginGuide {
+  id              String   @id @default(cuid())
+  slug            String   @unique
+  pluginName      String
+  brand           String
+  category        String
+  level           String
+  tagline         String
+  whatIsIt        String
+  forWho          String
+  keyParamsJson   String
+  starterPreset   String
+  proTechnique    String
+  commonMistakes  String
+  pairsWith       String
+  freeAlternative  String?
+  officialImageUrl String?
+  imageAlt         String?
+  videoEmbedUrl    String?
+  authorNote       String?
+  genresJson       String?
+  referencesJson   String?
+  published       Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model PluginFiche {
+  id               String    @id @default(cuid())
+  pluginKey        String    @unique
+  pluginName       String
+  brand            String?
+  category         String?
+  description      String
+  useCasesJson     String
+  parametersJson   String
+  beginnerTip      String
+  proTip           String
+  pairsWellWith    String
+  alternatives     String
+  screenshotUrl    String?
+  annotationsJson  String?
+  annotatedAt      DateTime?
+  generatedAt      DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+}

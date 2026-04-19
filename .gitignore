@@ -1,0 +1,12 @@
+node_modules/
+target/
+dist/
+build/
+.next/
+out/
+.env
+.env.local
+*.log
+*.pdb
+*.rlib
+.DS_Store

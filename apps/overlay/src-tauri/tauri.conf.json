@@ -1,0 +1,66 @@
+{
+  "build": {
+    "beforeDevCommand": "pnpm dev",
+    "beforeBuildCommand": "pnpm build",
+    "devPath": "http://localhost:1420",
+    "distDir": "../dist"
+  },
+  "package": {
+    "productName": "PluginBase Overlay",
+    "version": "0.1.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "window": { "all": true },
+      "shell": { "open": true }
+    },
+    "bundle": {
+      "active": true,
+      "icon": ["icons/icon.ico", "icons/icon.png"],
+      "identifier": "com.pluginbase.overlay",
+      "targets": "all"
+    },
+    "deepLink": {
+      "protocols": ["pluginbase"]
+    },
+    "security": {
+      "csp": null
+    },
+    "systemTray": {
+      "iconPath": "icons/icon.png",
+      "iconAsTemplate": true,
+      "menuOnLeftClick": false
+    },
+    "windows": [
+      {
+        "label": "overlay",
+        "title": "PluginBase Overlay",
+        "width": 320,
+        "height": 500,
+        "transparent": true,
+        "decorations": false,
+        "alwaysOnTop": true,
+        "skipTaskbar": true,
+        "visible": false,
+        "focus": false,
+        "resizable": false,
+        "x": 20,
+        "y": 100
+      },
+      {
+        "label": "control",
+        "title": "PluginBase — Contrôle",
+        "width": 300,
+        "height": 500,
+        "transparent": true,
+        "decorations": false,
+        "alwaysOnTop": false,
+        "skipTaskbar": false,
+        "visible": false,
+        "resizable": false,
+        "x": 40,
+        "y": 40
+      }
+    ]
+  }
+}

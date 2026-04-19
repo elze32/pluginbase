@@ -1,0 +1,364 @@
+7DeadlySnares.vst3 | VST3
+Auto-Tune Access.vst3 | VST3
+Auto-Key.vst3 | VST3
+Auto-Tune EFX.vst3 | VST3
+Auto-Tune.vst3 | VST3
+BEAM Filter.vst3 | VST3
+BEAM Haze.vst3 | VST3
+RANDOM Metal.vst3 | VST3
+ADA Flanger.vst3 | VST3
+ADA STD-1 Stereo Tapped Delay.vst3 | VST3
+AMEK EQ 250.vst3 | VST3
+Ampeg SVT3Pro.vst3 | VST3
+AMEK Mastering Compressor.vst3 | VST3
+Ampeg B15N.vst3 | VST3
+Ampeg SVTVR Classic.vst3 | VST3
+Ampeg V4B.vst3 | VST3
+ARP 2600 V3.vst3 | VST3
+Ampeg SVTVR.vst3 | VST3
+Augmented GRAND PIANO.vst3 | VST3
+Augmented MALLETS.vst3 | VST3
+Augmented BRASS.vst3 | VST3
+Augmented WOODWINDS.vst3 | VST3
+Augmented YANGTZE.vst3 | VST3
+BEATMAKER.vst3 | VST3
+B-3 V2.vst3 | VST3
+Bettermaker BM60.vst3 | VST3
+Bettermaker Bus Compressor DSP.vst3 | VST3
+Bettermaker C502V DSP.vst3 | VST3
+Bettermaker EQ232D.vst3 | VST3
+Bettermaker Mastering Compressor DSP.vst3 | VST3
+Bettermaker Passive Equalizer.vst3 | VST3
+Bite.vst3 | VST3
+Black Box Analog Design HG-2MS.vst3 | VST3
+Black Box Analog Design HG-2.vst3 | VST3
+Black Box Analog Design HG-Q.vst3 | VST3
+Bus EXCITER-104.vst3 | VST3
+bx_2098 EQ.vst3 | VST3
+Bus PEAK.vst3 | VST3
+bx_blackdist2.vst3 | VST3
+bx_bluechorus2.vst3 | VST3
+bx_boom V3.vst3 | VST3
+bx_boom.vst3 | VST3
+bx_aura.vst3 | VST3
+bx_bassdude.vst3 | VST3
+bx_cleansweep V2.vst3 | VST3
+bx_clipper.vst3 | VST3
+bx_cleansweep Pro.vst3 | VST3
+bx_console AMEK 200.vst3 | VST3
+bx_console AMEK 9099.vst3 | VST3
+bx_console SSL 9000 J.vst3 | VST3
+bx_control V2.vst3 | VST3
+bx_crispyscale.vst3 | VST3
+bx_crispytuner.vst3 | VST3
+bx_digital V3 mix.vst3 | VST3
+bx_dynEQ V2.vst3 | VST3
+bx_distorange.vst3 | VST3
+bx_delay2500.vst3 | VST3
+bx_enhancer.vst3 | VST3
+bx_dynEQ V2 Mono.vst3 | VST3
+bx_greenscreamer.vst3 | VST3
+bx_glue.vst3 | VST3
+bx_hybrid V2 mix.vst3 | VST3
+bx_hybrid V2.vst3 | VST3
+bx_masterdesk Classic.vst3 | VST3
+bx_limiter.vst3 | VST3
+bx_masterdesk Pro.vst3 | VST3
+bx_masterdesk True Peak.vst3 | VST3
+bx_megadual.vst3 | VST3
+bx_megasingle.vst3 | VST3
+bx_metal2.vst3 | VST3
+bx_meter.vst3 | VST3
+bx_oberhausen.vst3 | VST3
+bx_opto Pedal.vst3 | VST3
+bx_panEQ.vst3 | VST3
+bx_pulsar.vst3 | VST3
+bx_opto.vst3 | VST3
+bx_rockergain100.vst3 | VST3
+bx_rockrack V3 Player.vst3 | VST3
+bx_rockrack V3.vst3 | VST3
+bx_rooMS.vst3 | VST3
+dearVR PRO 2.vst3 | VST3
+FabFilter Pro-DS.vst3 | VST3
+FabFilter Pro-C 2.vst3 | VST3
+FabFilter Pro-G.vst3 | VST3
+FabFilter Pro-R 2.vst3 | VST3
+FabFilter Saturn 2.vst3 | VST3
+FabFilter Timeless 3.vst3 | VST3
+FabFilter Twin 3.vst3 | VST3
+FabFilter Pro-Q 4.vst3 | VST3
+FabFilter Pro-MB.vst3 | VST3
+FabFilter Volcano 3.vst3 | VST3
+FabFilter Pro-L 2.vst3 | VST3
+RipLink.vst3 | VST3
+Ozone 12 Equalizer.vst3 | VST3
+Vocal Doubler.vst3 | VST3
+Vinyl.vst3 | VST3
+Ozone Imager 2.vst3 | VST3
+KClip Zero.vst3 | VST3
+kHs 3-Band EQ.vst3 | VST3
+kHs Bitcrush.vst3 | VST3
+kHs Channel Mixer.vst3 | VST3
+kHs Chorus.vst3 | VST3
+kHs Compressor.vst3 | VST3
+kHs Comb Filter.vst3 | VST3
+kHs Dual Delay.vst3 | VST3
+kHs Clipper.vst3 | VST3
+kHs Ensemble.vst3 | VST3
+kHs Distortion.vst3 | VST3
+kHs Delay.vst3 | VST3
+kHs Compactor.vst3 | VST3
+kHs Dynamics.vst3 | VST3
+kHs Gain.vst3 | VST3
+kHs Filter.vst3 | VST3
+kHs Frequency Shifter.vst3 | VST3
+kHs Flanger.vst3 | VST3
+kHs Formant Filter.vst3 | VST3
+kHs Haas.vst3 | VST3
+kHs Gate.vst3 | VST3
+kHs Ladder Filter.vst3 | VST3
+kHs Limiter.vst3 | VST3
+kHs Nonlinear Filter.vst3 | VST3
+kHs Phase Distortion.vst3 | VST3
+kHs Phaser.vst3 | VST3
+kHs Resonator.vst3 | VST3
+kHs Pitch Shifter.vst3 | VST3
+kHs Reverb.vst3 | VST3
+kHs Reverser.vst3 | VST3
+kHs Stereo.vst3 | VST3
+kHs Ring Mod.vst3 | VST3
+kHs Shaper.vst3 | VST3
+kHs Trance Gate.vst3 | VST3
+kHs Tape Stop.vst3 | VST3
+kHs Transient Shaper.vst3 | VST3
+bx_shredspread.vst3 | VST3
+bx_solo.vst3 | VST3
+bx_subfilter.vst3 | VST3
+bx_subsynth.vst3 | VST3
+bx_tonebox.vst3 | VST3
+bx_townhouse Buss Compressor.vst3 | VST3
+bx_tuner.vst3 | VST3
+bx_XL V3.vst3 | VST3
+Chandler GAV19T.vst3 | VST3
+bx_yellowdrive.vst3 | VST3
+Chorus DIMENSION-D.vst3 | VST3
+Chorus JUN-6.vst3 | VST3
+CP-70 V.vst3 | VST3
+Cut Classic High Flyer.vst3 | VST3
+CS-80 V4.vst3 | VST3
+Dangerous BAX EQ Master.vst3 | VST3
+Delay BRIGADE.vst3 | VST3
+Dangerous BAX EQ Mix.vst3 | VST3
+Diezel Herbert.vst3 | VST3
+Diezel VH4.vst3 | VST3
+Dirt.vst3 | VST3
+Dist COLDFIRE.vst3 | VST3
+Dist TUBE-CULTURE.vst3 | VST3
+DS Thorn.vst3 | VST3
+DS Tantra 2.vst3 | VST3
+Driver.vst3 | VST3
+Efx MOTIONS.vst3 | VST3
+Efx REFRACT.vst3 | VST3
+elysia alpha compressor V2.vst3 | VST3
+elysia karacter master.vst3 | VST3
+elysia alpha master.vst3 | VST3
+elysia karacter mix.vst3 | VST3
+elysia alpha mix.vst3 | VST3
+elysia museq Master.vst3 | VST3
+elysia mpressor.vst3 | VST3
+elysia niveau filter.vst3 | VST3
+elysia museq Mix.vst3 | VST3
+elysia nvelope.vst3 | VST3
+elysia phils cascade.vst3 | VST3
+Emulator II V.vst3 | VST3
+ENGL E646 VS.vst3 | VST3
+ENGL E765 RT.vst3 | VST3
+ENGL Savage 120.vst3 | VST3
+Enhanced EQ.vst3 | VST3
+fiedler audio splat.vst3 | VST3
+fiedler audio stage.vst3 | VST3
+Filter MS-20.vst3 | VST3
+FIN-BOOST.vst3 | VST3
+FIN-DYNAMO.vst3 | VST3
+Flanger BL-20.vst3 | VST3
+Friedman BE100.vst3 | VST3
+Freak.vst3 | VST3
+Friedman Buxom Betty.vst3 | VST3
+Friedman DS40.vst3 | VST3
+Fuchs Overdrive Supreme 50.vst3 | VST3
+Fuchs Train II.vst3 | VST3
+Gallien Krueger 800RB.vst3 | VST3
+Harris Doyle Natalus DSCEQ.vst3 | VST3
+HEARS Perfection.vst3 | VST3
+HUM Audio Devices LAAL.vst3 | VST3
+Jup-8 V4.vst3 | VST3
+Karanyi Sounds Wavesurfer.vst3 | VST3
+Jup-8000 V.vst3 | VST3
+Kiive Tape Face.vst3 | VST3
+Kiive XTComp.vst3 | VST3
+Knif Audio Knifonium.vst3 | VST3
+Knif Audio Soma.vst3 | VST3
+Komplete Kontrol.vst3 | VST3
+Kontakt 8.vst3 | VST3
+MAAT GON.vst3 | VST3
+NeuralNote.vst3 | VST3
+noteGRABBER.vst3 | VST3
+ROLI Studio Drums.vst3 | VST3
+ROLI Studio Player.vst3 | VST3
+Fresh Air.vst3 | VST3
+ANA2 x64.vst3 | VST3
+KORG MS-20 V.vst3 | VST3
+KrotosStudio.vst3 | VST3
+Lindell 254E.vst3 | VST3
+Lindell 354E.vst3 | VST3
+Lindell 50 Buss.vst3 | VST3
+Lindell 50 Channel.vst3 | VST3
+Lindell 69 Buss.vst3 | VST3
+Lindell 69 Channel.vst3 | VST3
+Lindell 6X-500.vst3 | VST3
+Lindell 7X-500.vst3 | VST3
+Lindell 80 Bus.vst3 | VST3
+Lindell 80 Channel.vst3 | VST3
+Lindell 902 De-esser.vst3 | VST3
+Lindell ChannelX.vst3 | VST3
+Lindell EQ825.vst3 | VST3
+Lindell MBC.vst3 | VST3
+Lindell MU-66.vst3 | VST3
+Lindell PEX-500.vst3 | VST3
+Lindell SBC.vst3 | VST3
+Lindell TE-100.vst3 | VST3
+LTL Chop Shop EQ.vst3 | VST3
+Looptrotter SA2RATE2.vst3 | VST3
+LTL SILVER BULLET mk2.vst3 | VST3
+Maag EQ4 MS.vst3 | VST3
+Maag EQ2.vst3 | VST3
+Maag MAGNUM-K.vst3 | VST3
+Matrix-12 V2.vst3 | VST3
+MEGA Sampler.vst3 | VST3
+Millennia TCL-2.vst3 | VST3
+Mini V4.vst3 | VST3
+MiniBrute V.vst3 | VST3
+MNDALA 2.vst3 | VST3
+Modular V3.vst3 | VST3
+Mixland Vac Attack.vst3 | VST3
+NEOLD BIG AL.vst3 | VST3
+NEOLD OLDTIMER.vst3 | VST3
+NEOLD RZ062.vst3 | VST3
+NEOLD U17.vst3 | VST3
+NEOLD U2A.vst3 | VST3
+NEOLD V76U73.vst3 | VST3
+NEOLD WARBLE.vst3 | VST3
+NEOLD WUNDERLICH.vst3 | VST3
+Noveltech Character.vst3 | VST3
+Noveltech Vocal Enhancer.vst3 | VST3
+Passive EQ.vst3 | VST3
+Phaser BI-TRON.vst3 | VST3
+Piano V3.vst3 | VST3
+Pre V76.vst3 | VST3
+Pre TridA.vst3 | VST3
+Pro Audio DSP DSM V3.vst3 | VST3
+Pure LoFi.vst3 | VST3
+Purple Audio MC 77.vst3 | VST3
+Rev LX-24.vst3 | VST3
+Rotary CLS-222.vst3 | VST3
+SE-BRAAASS.vst3 | VST3
+SE-DRUMS.vst3 | VST3
+SE-STRIIIINGS.vst3 | VST3
+SEM V3.vst3 | VST3
+Shadow Hills Class A Mastering Comp.vst3 | VST3
+Shadow Hills OptoMax.vst3 | VST3
+Solina V2.vst3 | VST3
+SoundID Reference VST3 Plugin.vst3 | VST3
+SoundlyMonitor.vst3 | VST3
+SPL Attacker Plus.vst3 | VST3
+SPL BiG.vst3 | VST3
+SPL De-Esser Dual-Band.vst3 | VST3
+SPL De-Esser.vst3 | VST3
+SPL De-Verb Plus.vst3 | VST3
+SPL DrumXchanger.vst3 | VST3
+SPL EQ Ranger Plus.vst3 | VST3
+SPL Free Ranger.vst3 | VST3
+SPL HawkEye.vst3 | VST3
+SPL Machine Head.vst3 | VST3
+SPL Mo-Verb Plus.vst3 | VST3
+Splice INSTRUMENT.vst3 | VST3
+TB_Barricade_v4.vst3 | VST3
+TB_BitJuggler_v1.vst3 | VST3
+TB_Compressor_v4.vst3 | VST3
+TB_DualVCF_v1.vst3 | VST3
+TB_Enhancer_v1.vst3 | VST3
+TB Equalizer Pro.vst3 | VST3
+TB_Equalizer_v4.vst3 | VST3
+TB_Flowtones_v1.vst3 | VST3
+TB_GonioMeter_v1.vst3 | VST3
+TB_Lowtone_v1.vst3 | VST3
+TB_MBC_v1.vst3 | VST3
+TB_Morphit_v1.vst3 | VST3
+TB_ReelBus_v4.vst3 | VST3
+TB_Reverb_v4.vst3 | VST3
+TB_Sibalance_v4.vst3 | VST3
+TB_Spectrogram_v1.vst3 | VST3
+TB_VoicePitcher_v4.vst3 | VST3
+UVIWorkstation.vst3 | VST3
+SPL Passeq Single.vst3 | VST3
+SPL Passeq.vst3 | VST3
+SPL PQ.vst3 | VST3
+SPL TwinTube.vst3 | VST3
+SPL Vitalizer MK2-T.vst3 | VST3
+SPL Vitalizer MK3-T.vst3 | VST3
+SQ80 V.vst3 | VST3
+Stage-73 V2.vst3 | VST3
+Suhr SE100.vst3 | VST3
+Suhr PT100.vst3 | VST3
+SUBCRAFT.vst3 | VST3
+Swivel Audio BDE.vst3 | VST3
+Swivel Audio Click Boom.vst3 | VST3
+Swivel Audio HitStrip.vst3 | VST3
+Swivel Audio Knocktonal.vst3 | VST3
+Swivel Audio Spread.vst3 | VST3
+Swivel Audio The Sauce.vst3 | VST3
+Synthx V.vst3 | VST3
+Tactile.vst3 | VST3
+Tape MELLO-FI.vst3 | VST3
+TBTECH Cenozoix Compressor.vst3 | VST3
+TBTECH Kirchhoff-EQ.vst3 | VST3
+TBTECH Trinity Shaper.vst3 | VST3
+THX Spatial Creator.vst3 | VST3
+THE OVEN.vst3 | VST3
+TOMO Audiolabs LISA.vst3 | VST3
+Unfiltered Audio Bass Mint.vst3 | VST3
+UFX-REVERB2.vst3 | VST3
+Unfiltered Audio Battalion.vst3 | VST3
+Unfiltered Audio Byome.vst3 | VST3
+Unfiltered Audio Dent 2.vst3 | VST3
+Unfiltered Audio Fault.vst3 | VST3
+Unfiltered Audio G8.vst3 | VST3
+Unfiltered Audio Indent 2.vst3 | VST3
+Unfiltered Audio Instant Delay.vst3 | VST3
+Unfiltered Audio LION.vst3 | VST3
+Unfiltered Audio lo-fi-af.vst3 | VST3
+Unfiltered Audio Needlepoint.vst3 | VST3
+Unfiltered Audio Sandman.vst3 | VST3
+Unfiltered Audio Sandman Pro.vst3 | VST3
+Unfiltered Audio Silo.vst3 | VST3
+Unfiltered Audio SpecOps.vst3 | VST3
+Unfiltered Audio Tails.vst3 | VST3
+Unfiltered Audio Triad.vst3 | VST3
+Unfiltered Audio Zip.vst3 | VST3
+USYNTH.vst3 | VST3
+ValhallaFutureVerb.vst3 | VST3
+Vari Comp.vst3 | VST3
+VB-SLAP.vst3 | VST3
+VD-BRUTE.vst3 | VST3
+VD-HOT.vst3 | VST3
+Vertigo VSC-2.vst3 | VST3
+Vertigo VSM-3.vst3 | VST3
+Vertigo VSS-2.vst3 | VST3
+VG-CINEDREAM.vst3 | VST3
+Virtual Pianist.vst3 | VST3
+Vocoder V.vst3 | VST3
+VOX Continental V2.vst3 | VST3
+VOXCRAFT.vst3 | VST3
+Wurli V3.vst3 | VST3
+zerodebug_StudiomuxEffect.vst3 | VST3
+zerodebug_StudiomuxInstrument.vst3 | VST3

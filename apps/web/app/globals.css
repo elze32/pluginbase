@@ -1,0 +1,141 @@
+@import "tailwindcss";
+
+/* PluginBase Design System */
+:root {
+  /* Arrière-plans */
+  --bg-base: #F7F6F3;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #F0EEE9;
+  --bg-sunken: #E8E6E0;
+
+  /* Texte */
+  --text-primary: #1A1916;
+  --text-secondary: #6B6760;
+  --text-muted: #A8A49E;
+
+  /* Accent — vert chartreuse studio */
+  --accent: #7CBF3F;
+  --accent-hover: #6AAD30;
+  --accent-light: #EDF6E2;
+  --accent-text: #3A6B10;
+  --accent-foreground: #3A6B10;
+
+  /* Statuts */
+  --status-essential: #3A6B10;
+  --status-essential-bg: #EDF6E2;
+  --status-doublon: #C0392B;
+  --status-doublon-bg: #FDF0EE;
+  --status-sleep: #6B6760;
+  --status-sleep-bg: #F0EEE9;
+  --status-learn: #B07D2A;
+  --status-learn-bg: #FDF6E8;
+  --status-sell: #2563EB;
+  --status-sell-bg: #EEF3FE;
+  --status-test: #7C3AED;
+  --status-test-bg: #F3EFFE;
+
+  /* Bordures */
+  --border: rgba(26, 25, 22, 0.08);
+  --border-strong: rgba(26, 25, 22, 0.14);
+  --border-focus: #7CBF3F;
+
+  /* Ombres */
+  --shadow-sm: 0 1px 2px rgba(26,25,22,0.06);
+  --shadow-md: 0 4px 12px rgba(26,25,22,0.08);
+  --shadow-lg: 0 8px 24px rgba(26,25,22,0.10);
+
+  /* Typographie */
+  --font-display: var(--font-syne), sans-serif;
+  --font-body: var(--font-instrument-sans), sans-serif;
+  --font-mono: var(--font-dm-mono), monospace;
+}
+
+@theme inline {
+  --color-bg-base: var(--bg-base);
+  --color-bg-surface: var(--bg-surface);
+  --color-bg-elevated: var(--bg-elevated);
+  --color-bg-sunken: var(--bg-sunken);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-muted: var(--text-muted);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-light: var(--accent-light);
+  --color-accent-text: var(--accent-text);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-status-essential: var(--status-essential);
+  --color-status-essential-bg: var(--status-essential-bg);
+  --color-status-doublon: var(--status-doublon);
+  --color-status-doublon-bg: var(--status-doublon-bg);
+  /* Valeurs littérales — pas de référence circulaire */
+  --font-sans: var(--font-instrument-sans), sans-serif;
+  --font-display: var(--font-syne), sans-serif;
+  --font-mono: var(--font-dm-mono), monospace;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* Status badges */
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  line-height: 1.4;
+}
+
+.status-unclassified { background: var(--bg-sunken); color: var(--text-secondary); }
+.status-essential    { background: var(--status-essential-bg); color: var(--status-essential); }
+.status-doublon      { background: var(--status-doublon-bg); color: var(--status-doublon); }
+.status-unused       { background: var(--status-sleep-bg); color: var(--status-sleep); }
+.status-to_learn     { background: var(--status-learn-bg); color: var(--status-learn); }
+.status-to_sell      { background: var(--status-sell-bg); color: var(--status-sell); }
+.status-to_test      { background: var(--status-test-bg); color: var(--status-test); }
+
+/* Animations landing */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.4; }
+}
+.fade-up {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--bg-sunken); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-strong); }

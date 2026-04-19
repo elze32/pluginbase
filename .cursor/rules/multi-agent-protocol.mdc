@@ -1,0 +1,63 @@
+---
+description: Protocole obligatoire de collaboration entre Codex et Claude Code
+alwaysApply: true
+---
+
+# Protocole central
+
+- `AGENTS.md` est la source de vérité principale pour le produit, le stack, le design system et les décisions durables.
+- `CLAUDE.md` n'est pas une source de vérité concurrente. Il sert uniquement d'aiguillage vers `AGENTS.md` et la mémoire partagée.
+- En cas de conflit entre documents, applique cet ordre de priorité :
+  1. `AGENTS.md`
+  2. `docs/collaboration/WORKING_RULES.md`
+  3. `docs/collaboration/PROJECT_CONTEXT.md`
+  4. `docs/collaboration/TASK_BOARD.md`
+  5. `docs/collaboration/HANDOFF_LOG.md`
+
+# Lecture minimale avant action
+
+You MUST read the following files before making ANY code change:
+
+1. `AGENTS.md`
+2. `ROLES.md`
+3. `docs/collaboration/PROJECT_CONTEXT.md`
+4. `docs/collaboration/TASK_BOARD.md`
+5. `docs/collaboration/DECISIONS.md`
+6. `docs/collaboration/HANDOFF_LOG.md`
+
+If you do not read them, you are not allowed to proceed.
+
+Avant toute modification substantielle, lire :
+- `AGENTS.md`
+- `ROLES.md`
+- `docs/collaboration/README.md`
+- `docs/collaboration/PROJECT_CONTEXT.md`
+- `docs/collaboration/DECISIONS.md`
+- `docs/collaboration/TASK_BOARD.md`
+- la dernière entrée de `docs/collaboration/HANDOFF_LOG.md`
+
+# Règles de travail d'équipe
+
+- Ne jamais créer une deuxième source de vérité pour le produit ou l'architecture.
+- Avant de commencer une tâche, vérifier dans `docs/collaboration/TASK_BOARD.md` qu'elle n'est pas déjà en cours.
+- Si tu prends une tâche, mets à jour son statut, l'agent responsable et la date.
+- Si une décision durable est prise, mets à jour `AGENTS.md` section `DÉCISIONS`.
+- Si le contexte du projet a changé, mets à jour `docs/collaboration/PROJECT_CONTEXT.md`.
+- Si tu t'arrêtes, même temporairement, ajoute un handoff explicite dans `docs/collaboration/HANDOFF_LOG.md`.
+- Always:
+  - update `TASK_BOARD.md`
+  - append to `HANDOFF_LOG.md`
+  - record decisions in `DECISIONS.md` if needed
+
+# Handoff obligatoire
+
+Chaque handoff doit contenir au minimum :
+- date
+- agent sortant
+- tâche en cours
+- état réel de ce qui fonctionne
+- fichiers touchés
+- risques ou points ouverts
+- prochaine action recommandée
+
+Ne considère pas le travail comme "transmissible" tant que `TASK_BOARD.md` et `HANDOFF_LOG.md` ne sont pas alignés.
